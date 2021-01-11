@@ -1,0 +1,435 @@
+[
+     {
+           "name": "UNIFI ANEKA",
+            "samples": [
+       {
+        "name": "TV1",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "TV2",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "TV3",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "NTV7",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "8TV",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "TV9",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "SALAM HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "TV ALHIJRAH",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "HYPP SENSASI HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "HYYP INSPIRASI HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "DUNIA SINEMA HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "PESONA HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "LAKU MALL HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      }
+    ]
+  },
+  {
+    "name": "UNIFI TV RUBY",
+    "samples": [
+     {
+        "name": "TVN MOVIES HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+     },
+     {
+        "name": "SETI",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "TVN HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "STAR CHINESE MOVIES HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "STAR CHINESE LEGEND HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "STAR CHINESE CHANNEL HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "NOW JELLI HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      }
+    ]
+  },
+  {
+    "name": "UNIFI TV VARNAM",
+    "samples": [
+      {
+        "name": "COLORS TAMIL HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "POLIMER",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "JAYA MAX",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "SONY MAX",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "UTV MOVIES HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227594/3221227594.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "COLORS CINEPLEX",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+         "name": "YUPP THIRAI HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "COLORS",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "SONY SAB",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {        
+        "name": "SONY SET",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      }
+    ]
+  },
+  {
+    "name": "UNIFI TV ENTERTAINMENT",
+    "samples": [
+      {
+        "name": "FOX MOVIES",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "FOX ACTION MOVIES",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "FOX FAMILY MOVIES",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "PARAMOUNT CHANNEL HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "CINEMA WORLD HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "WARNER TV HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "FOX",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "FX",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "FOX LIFE",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "COMEDY CENTRAL HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227581/3221227581.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "ANIMAX HD",
+        "uri": "http://iptvtree.net:8080/13354/27c12697/157486?play_token=xLlm45q8Ln&token=ShUNAEFcElxEAQZVCAhbUAVXAQVXDgQLUlBWBwZSU1QCDgdVUwwDB1AaGEZKTREDAFhpWAUVDwgDBldaAU5DFkJSFz5bUBJcRA0FUA0LQUpDQV9cBBUPCAMIWlUOV1FRBRtHEVtQElxECQFdCg5BSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsLW1dRFxoTAlhAV0JDGkANQDM2ExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1FAG0AMDF9eEQ5Aa0APAhoORgAMUVFDSA=="
+      },
+      {
+             "name": "ANIPLUS HD",
+        "uri": "http://iptvtree.net:8080/13354/27c12697/157566?play_token=h1xpFYhsTR&token=ShUNAEFcElxEDQxWAFwBAgVRD1MCAFZfBglSWg5WVwcBD1MHUA0HVQMaGEZKTREDAFhpWAUVDwgDBlZUAU5DFkJSFz5bUBJcRA0FUA0LQUpDQV9cBBUPCAMIWlUOV1FQARtHEVtQElxECg1TDwxBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVFVZFxoTAlhAV0JDGkANQCMkExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1FAG0AMDF9eEQ5Aa0APAhoORgwMU1NDSA=="
+      },
+      {
+        "name": "BLUE ANT ENTERTAINMENT HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "BLUE ANT EXTREME",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      }
+    ]
+  },
+  {
+    "name": "UNIFI TV KNOWLEDGE",
+    "samples": [
+      {
+        "name": "BBC EARTH HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "LOVE NATURE",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "NATTIONAL GEOGRAPHIC",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "NAT GEO WILD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "NAT GEO PEOPLE HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "BBC LIFESTYLE HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "TRAVEL CHANNEL HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "LUXE.TV HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "MTV ASIA HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      }
+    ]
+  },
+  {
+    "name": "UNIFI TV KIDS",
+    "samples": [
+      {
+        "name": "DREAMWORK HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "NICK JR.",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "CBEEBIES HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {           
+        "name": "NICKELODEON",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "BOOMERANG HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "BABYTV",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      }
+    ]
+  },
+  {
+    "name": "UNIFI TV SPORTS",
+    "samples": [
+     {
+        "name": "UNIFI SPORTS 1",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "UNIFI SPORTS 2",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "UNIFI SPORTS 3",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "UNIFI SPORTS 4",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "UNIFI SPORTS 5",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "FOX SPORTS HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "FOX SPORTS 2 HD",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId="
+      },
+      {
+        "name": "FOX SPORTS 3 HD",
+     "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      }
+    ]
+  }
+]
