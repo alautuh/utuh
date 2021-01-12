@@ -7,14 +7,14 @@
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "MTV ASIA HD",
         "logo_uri": "https://download.logo.wine/logo/MTV_(Southeast_Asia)/MTV_(Southeast_Asia)-Logo.wine.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NTI4OTRjNWMtMzMzYi0zMWNiLWFjNjktMzUzYThkZmVmYzkz"
       },
       {
         "name": "MUSIC TV",
