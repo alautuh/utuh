@@ -21,7 +21,7 @@
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/MTV_Music_2017_logo.svg/1200px-MTV_Music_2017_logo.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "KARAOKE CHANNEL",
@@ -55,14 +55,14 @@
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "ZEE BIOSKOP",
         "logo_uri": "https://i.postimg.cc/V6xWZTgY/zeebioskop.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "POLIMER",
@@ -132,7 +132,7 @@
          "logo_uri": "https://static.epg.best/in/AndTV.in.png",
          "uri": "https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd",
          "drm_scheme": "widevine",
-         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
           "name": "SONY SAB",
@@ -190,35 +190,35 @@
          "logo_uri": "https://sc.dish.com/shared/images/station-logos/AHTV.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
      },
      {
         "name": "HUNAN TV",
          "logo_uri": "https://sc.dish.com/shared/images/station-logos/HUNAN.png", 
         "uri": "https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
      },
      {
         "name": "JIANGSU TV",
          "logo_uri": "https://images.sports8.cc/cimg/305.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
      },
      {
         "name": "SHANGHAI DRAGON TV",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/1200px-Dragon_Television_%28China%29_logo.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
      },
      {
         "name": "XINGKING TV",
         "logo_uri": "https://n.sinaimg.cn/sinakd20200616ac/799/w500h299/20200616/598f-iuzasxs9308497.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
      },
      {
           "name": "TVN MOVIES HD",
@@ -239,28 +239,28 @@
         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "STAR CHINESE LEGEND",
         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM-Legend.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "CELESTIAL MOVIES",
         "logo_uri": "https://i.imgur.com/KcCWHbk.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "CELESTIAL CLASSIC MOVIES",
         "logo_uri": "https://i.imgur.com/KcCWHbk.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
          "name": "IQIYI",
@@ -272,7 +272,7 @@
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
           "name": "RED BY HBO",
@@ -289,14 +289,14 @@
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "WAKU-WAKU JAPAN",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/330px-WakuWaku_Japan_logo.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
        }
      ]
        },
@@ -343,7 +343,7 @@
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "BBC LIFESTYLE HD",
@@ -371,7 +371,7 @@
         "logo_uri": "https://static.epg.best/mx/HistoryChannel.mx.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
                "name": "DISCOVERY ASIA",
@@ -383,14 +383,14 @@
             "logo_uri": "https://i.imgur.com/ESeGnT2.jpg",
              "uri": "https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd",
              "drm_scheme": "widevine",
-             "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+             "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
         },
         {
              "name": "ANIMAL PLANET",
              "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",
               "uri": "https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd",
               "drm_scheme": "widevine",
-              "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+              "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
         },
         {
               "name": "SMITHSONIAN CHANNEL",
@@ -487,7 +487,7 @@
                   "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",
                   "uri": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd",
                   "drm_scheme": "widevine",
-                  "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+                  "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
             },
             {
                   "name": "ANIPLUS",
@@ -499,14 +499,14 @@
                    "logo_uri": "http://miaomi-tv.com/Public/images/miao-mi-logo-color.png",
                    "uri": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd",
                    "drm_scheme": "widevine",
-                   "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+                   "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
              },
              {
                  "name": "Kids TV",
                  "logo_uri": "https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",
                  "uri": "https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd",
                  "drm_scheme": "widevine",
-                 "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+                 "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
              }
           ]
             },
@@ -600,14 +600,14 @@
             "logo_uri": "https://s4.postimg.cc/m171drj19/bein-sports-400.png",
              "uri": "https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd",
             "drm_scheme": "widevine",
-            "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+            "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
         },
         {
             "name": "BEIN SPORTS 2",
             "logo_uri": "https://s4.postimg.cc/m171drj19/bein-sports-400.png",
             "uri": "https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd",
             "drm_scheme": "widevine",
-            "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+            "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
          },
          {
             "name": "SONY TEN 1",
