@@ -7,14 +7,14 @@
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "MTV ASIA HD",
         "logo_uri": "https://static.wixstatic.com/media/366666_3259ca715ade4fd2867292c8b1aad0d2~mv2.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NTI4OTRjNWMtMzMzYi0zMWNiLWFjNjktMzUzYThkZmVmYzkz"
       },
       {
         "name": "MUSIC TV",
@@ -62,28 +62,28 @@
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NTI4OTRjNWMtMzMzYi0zMWNiLWFjNjktMzUzYThkZmVmYzkz"
       },
       {
          "name": "STAR CHINESE LEGEND HD",
          "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM-Legend.png",
          "uri": "http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd",
          "drm_scheme": "widevine",
-         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+         "drm_license_url": "http://1.9.58.113:8063?deviceId=NTI4OTRjNWMtMzMzYi0zMWNiLWFjNjktMzUzYThkZmVmYzkz"
        },
        {
           "name": "TVN MOVIES HD",
           "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",
           "uri": "http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd",
           "drm_scheme": "widevine",
-          "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+          "drm_license_url": "http://1.9.58.113:8063?deviceId=NTI4OTRjNWMtMzMzYi0zMWNiLWFjNjktMzUzYThkZmVmYzkz"
       },
       {
         "name": "TVN HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tvn.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NTI4OTRjNWMtMzMzYi0zMWNiLWFjNjktMzUzYThkZmVmYzkz"
       },
       {
          "name": "RED BY HBO",
