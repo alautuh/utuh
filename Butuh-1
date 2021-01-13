@@ -94,7 +94,7 @@
       {
         "name": "DRAMA SANGAT",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
-        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8"
+        "uri": "http://iptvtree.net:8080/F11298/4faf13dc/171954?play_token=vOpJ5Q1j48"
       },
       {
         "name": "ASTRO NAURA",
@@ -144,7 +144,7 @@
       {
         "name": "ASTRO CITRA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
-        "uri": "  "
+        "uri": "http://163.172.41.113:8080/test-2dbbab/a422/157569?play_token=Ss4I2aSzX4&token=ShUNAEFcElxEDgJTCV1XUFgFVQNTUlBYU1QCVVNbAgUBAFIABFZSU14aGEZKTREDAFhpWAUVDwgDBlZUDk5DFkJSFz5bUBJcRA8BVwkOQUpDQV9cBBUPCAAAU1cHUldVABtHEVtQElxECQRRCg9BSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIV15QFxoTAlhAV0JDGkANQC8vExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORgsAUFNSF0s="
       },
       {
         "name": "ASTRO CITRA 2",
@@ -199,7 +199,7 @@
       {
         "name": "ASTRO BOO HD",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-        "uri": "  "
+        "uri": "http://163.172.209.137:8080/test-2dbbab/a422/171958?play_token=Ys27hHx1k8&token=ShUNAEFcElxEClYHDV0HA1JUAQVUAQNaA1AFV1JaUwBQUgMDAAxRBV8aGEZKTREDAFhpWAUVDwgBAFpXD05DFkJSFz5bUBJcRA8BVwkOQUpDQV9cBBUPCAAAU1cHUlRWAhtHEVtQElwITVgIFRsGHhVQRF8AW2pdU0cKAVJAWw1EWwlNEFteOQJdWQVXXUFcQwQUHUNeRkkUCw0XWw5NQVNeERNTQFVEXFZBCFUVQQUOQFhFE04XAxR/L0AbQAQbRVILEltbXkRcGkAXGxVBDxJqRFQSQ0dcV1wGEBVYQ1MTG0cMU0xvBQlWWgFaTQoJD0YUC0MGFxUUXAwMXhYOEW5HDAUQDl4TClRJ"
       }
     ]
       },
