@@ -463,9 +463,9 @@
           "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/29464.m3u8.ts"
        },
        {
-           "name": "SHOWTIME WEST",
+           "name": "SHOWTIME",
            "logo_uri": "https://www.bellmedia.ca/wp-content/uploads/2019/01/showtime-logo-black-01.png",
-           "uri": "https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8"
+           "uri": " http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/58779.m3u8.ts"
        },
        {
          "name": "STAR MOVIES HD",
@@ -495,12 +495,12 @@
        {
          "name": "ACTION MAX",
          "logo_uri": "https://cdn.tvpassport.com/image/station/240x135/actionmax.png",
-         "uri": "https://MaN@edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8"
+         "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/64352.m3u8.ts"
        },
        {
            "name": "CINEMAX(us)",
            "logo_uri": "https://hd-report.com/wp-content/uploads/2012/08/Cinemax-2011-logo.png",
-           "uri": "https://MaN@edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8"
+           "uri": " http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/64357.m3u8.ts"
        },
        {
           "name": "SYFY",
