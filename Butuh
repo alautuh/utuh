@@ -581,7 +581,7 @@
       {
           "name": "CINEMAX(us)",
           "logo_uri": "https://hd-report.com/wp-content/uploads/2012/08/Cinemax-2011-logo.png",
-          "uri": "https://MaN@edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8"
+          "uri": "http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/64349.m3u8.ts"
       },
       {
          "name": "SONY PIX HD",
@@ -589,10 +589,10 @@
          "uri": "http://MaN@iptvtree.net:8080/Mouse/654cac3f/49539?play_token=YtVWkwWayw"
       }
     ]
-  },
-  {
-    "name": " DOKUMENTARI",
-    "samples": [
+      },
+      {
+          "name": " DOKUMENTARI",
+          "samples": [
       {
         "name": "BBC EARTH HD",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-earth.png",
@@ -807,10 +807,10 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       }
     ]
-  },
-  {
-    "name": "NEWS",
-    "samples": [
+      },
+      {
+          "name": "NEWS",
+          "samples": [
      {
         "name": "BBC WORLD NEWS HD",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-world-news.png",
@@ -882,10 +882,10 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=NTI4OTRjNWMtMzMzYi0zMWNiLWFjNjktMzUzYThkZmVmYzkz"
       }
     ]
-  },
-  {
-    "name": "SPORTS",
-    "samples": [
+      },
+      {
+          "name": "SPORTS",
+          "samples": [
      {
         "name": "UNIFI SPORTS1",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png",
