@@ -426,14 +426,14 @@
       },
       {
         "name": "FOX SPORTS 3 HD",
-     "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       }
     ]
       },
       {
-           "name": " awesome tv ",
+           "name": "awesome tv",
            "samples": [
      {
         "name": "awesome tv",
