@@ -246,6 +246,11 @@
           "drm_scheme": "widevine",
           "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
        },
+       {
+            "name": "B4u Kadak",
+            "logo_uri": "https://indeltv.in/wp-content/uploads/2019/11/Channel_B4ukadak.png",
+            "uri": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"
+       },
        {        
 		"name": "MTV HD",
 		"logo_uri": "https://upload.wikimedia.org/wikipedia/commons/c/cb/MTV_Music_2017.png",
