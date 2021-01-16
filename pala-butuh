@@ -433,11 +433,11 @@
     ]
       },
       {
-           "name": "dragon ball",
+           "name": "HINDI",
            "samples": [
      {
-        "name": "dragon ball",
-        "uri": "https://youtu.be/Pm5P0tJYcuU"
+        "name": "B4U",
+        "uri": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"
      }
     ]
   }
