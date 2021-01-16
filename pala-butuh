@@ -378,10 +378,10 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId="
       }
     ]
-  },
-  {
-    "name": "UNIFI TV SPORTS",
-    "samples": [
+      },
+      {
+          "name": "UNIFI TV SPORTS",
+          "samples": [
      {
         "name": "UNIFI SPORTS 1",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd",
@@ -430,6 +430,15 @@
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       }
+    ]
+      },
+      {
+           "name": " awesome tv ",
+           "samples": [
+     {
+        "name": "awesome tv",
+        "uri": "https://awesometv.my/menu/highlight"
+     }
     ]
   }
 ]
