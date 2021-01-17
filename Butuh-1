@@ -197,7 +197,12 @@
         "uri":  "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71088.m3u8.ts"
       },
       {
-        "name": "ASTRO BOO HD",
+        "name": "ASTRO BOO 1 HD",
+        "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
+        "uri": "http://50.7.136.122:25461/live/bunga/1u9Q2L3FkE/11673.m3u8?token=TRcKBRBcRAkVUAAKCVFXVgICAFQIBgYOUVJUBlFWDAADVgQFVVVfBgNBSRpKFxFXU1hvDVwUDgcCUFYFSEFNQFNHPQ0HFlwRBlVRCRtPQUZbWFVGAgYYFEMPBRReQQkDDgRQRk8WA0tDBhdWWA88VldDWQddFA5YRgoNGkYMVmxSUA8FDVBECRVTRxQbChBCEA9eEVRaGBRRDxVEBRddEQwXU1VRAUQfFQAKTVcXEUsQDxIpYRQYFFYeFVMKEFFcWBdYRg4HEwsVT0dRSjwRV0FBQgFZW1FEEVxDBkZPGl5XTT0HDFoIVlQXDFdXEEEIEAQSSBpbW1haEg5EOxNRVxQPQFZbAFUFFR4="
+      },
+      {
+        "name": "ASTRO BOO 2 HD",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
         "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/171958?play_token=ORF6DnnAlD"
       }
@@ -441,12 +446,12 @@
       {
           "name": "&PRIVE HD",
           "logo_uri": "https://static.epg.best/in/AndPrive.in.png",
-          "uri": "http://MaN@skylogic.site:8080/live/f653192f/Ms3FtoRU2B/49557.m3u8.ts"
+          "uri": "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8"
      },
      {
            "name": "&FLIX HD",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
-           "uri": "MaN@http://iptvtree.net:8080/live/AaKNfqjf4Q/DFZsKGsWpJ/45506.ts"
+           "uri": "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/playlist.m3u8"
      },
      {
           "name": "EUROFILM",
