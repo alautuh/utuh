@@ -675,19 +675,14 @@
               "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/12983?play_token=eHyyTohSIL"
          },
          {
-             "name": "EUROSPORTS",
-             "logo_uri": "https://i.imgur.com/jPW4CkF.png",
-             "uri": "http://MaN@iptvtree.net:8080/live/14709/873066f7/158353.ts"
-         },
-         {
              "name": "EUROSPORTS 1",
              "logo_uri": "https://i.imgur.com/jPW4CkF.png",
-             "uri": "http://MaN@iptvtree.net:8080/live/14709/873066f7/692.ts"
+             "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/28819.m3u8.ts"
          },
          {
              "name": "EUROSPORTS 2",
              "logo_uri": "https://i.imgur.com/syYVNay.png?1",
-              "uri": "http://MaN@iptvtree.net:8080/live/14709/873066f7/1555.ts"
+              "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/28947.m3u8.ts"
             }
           ]
         }
