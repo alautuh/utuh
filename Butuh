@@ -390,6 +390,11 @@
          "uri": " http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71038.m3u8.ts"
       },
       {
+           "name": "SAMURAI MOVIES",
+           "logo_uri": "https://www.kindpng.com/picc/m/15-153899_clip-art-samurai-logo-png-transparent-png.png",
+           "uri": "https://cdn6.goprimetime.info/feed/LC2/index.m3u8"
+      },
+      {
           "name": "RED BY HBO",
           "logo_uri": "https://i.ibb.co/swQNcWz/REDBHBOIDD-S1.png",
           "uri": "http://fdtvapps.xyz/channel/red.m3u8"
