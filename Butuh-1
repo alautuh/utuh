@@ -489,10 +489,15 @@
             "uri": "http://MaN@skylogic.site:8080/live/f653192f/Ms3FtoRU2B/192961.ts"
        },
        {
-         "name": "TRING FANTASY",
-         "logo_uri": "http://www.albepg.com/tvlogi/Tring%20Fantasy.png",
-         "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/2577?play_token=mR5CEfnQxO"
-     },
+          "name": "GALAXY",
+          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/10/Galaxy_TV.png",
+          "uri": "http://MaN@80.82.77.130:80/live/mag00:1A:79:A8:DA:0F/EM0tETnnZXG8/74182.m3u8.ts"
+       },
+       {
+          "name": "TRING FANTASY",
+          "logo_uri": "http://www.albepg.com/tvlogi/Tring%20Fantasy.png",
+          "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/2577?play_token=mR5CEfnQxO"
+      },
       {
           "name": "AKSION HD",
           "logo_uri": "http://albepg.com/tvlogi/Film%20Aksion.png",
