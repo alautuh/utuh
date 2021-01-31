@@ -141,12 +141,12 @@
       {
         "name": "ASTRO CITRA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
-        "uri": "http://iptvtree.net:8080/test-b9ca82/d13f/157569?play_token=VaEVqaYuLY"
+        "uri": "https://MaN@raizo.raizoml123.workers.dev/0:/IPTV/Playlist/Citra.m3u8"
       },
       {
         "name": "ASTRO PRIMA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71020.m3u8.ts"
+        "uri": "http://MaN@live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8"
       },
       {
         "name": "ASTRO RANIA",
@@ -166,7 +166,7 @@
       {
         "name": "ASTRO BOO HD",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-        "uri": "http://iptvtree.net:8080/test-b9ca82/d13f/171958?play_token=nIxwarQhgj"
+        "uri": "https://MaN@raizo.raizoml123.workers.dev/0:/IPTV/Playlist/Boo.m3u8"
       }
     ]
       },
