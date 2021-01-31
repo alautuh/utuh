@@ -589,9 +589,9 @@
          "uri": "http://MaN@iptvtree.net:8080/Mouse/654cac3f/11511?play_token=X5K912zfwQ"
       },
       {
-          "name": "CINEMAX(us)",
-          "logo_uri": "https://hd-report.com/wp-content/uploads/2012/08/Cinemax-2011-logo.png",
-          "uri": " http://MaN@80.82.77.130:80/live/mag00:1A:79:A8:DA:0F/EM0tETnnZXG8/13951.m3u8.ts"
+         "name": "SYFY",
+         "logo_uri": "https://fastly.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png",
+         "uri": "http://MaN@80.82.77.130:80/live/mag00:1A:79:A8:DA:0F/EM0tETnnZXG8/14193.m3u8.ts"
       },
       {
          "name": "SONY PIX HD",
