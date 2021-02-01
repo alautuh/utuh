@@ -603,7 +603,7 @@
              "uri": " http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71102.m3u8.ts"
        },
        {
-          "name": "MNC SPORTS 1",
+          "name": "MNC SPORTS",
           "logo_uri": "https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059481_logo_mnc%20sport.png",
           "uri": "https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd",
           "drm_scheme": "widevine",
