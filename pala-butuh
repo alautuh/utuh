@@ -325,6 +325,13 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId="
       },
       {
+        "name": "CGTN",
+        "logo_uri": "https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
         "name": "LUXE.TV HD",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd",
         "drm_scheme": "widevine",
