@@ -435,6 +435,13 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
+        "name": "CGTN",
+        "logo_uri": "https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
         "name": "HGTV",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd",
