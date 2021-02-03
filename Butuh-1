@@ -545,7 +545,7 @@
       {
          "name": "HBO(backup)",
          "logo_uri": "https://i0.wp.com/reel360.com/wp-content/uploads/2020/05/HBO_logo_blue.png",
-         "uri": "http://fdtvapps.xyz/channel/hbo.m3u8"
+         "uri": "https://MaN@raizo.raizoml123.workers.dev/0:/IPTV/Playlist/Hbo.m3u8"
       },
       {
         "name": "HBO",
@@ -557,7 +557,7 @@
       {
          "name": "HBO FAMILY(backup)",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",
-         "uri": "http://fdtvapps.xyz/channel/hbofam.m3u8"
+         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8"
       },
       {
         "name": "HBO FAMILY",
