@@ -488,7 +488,7 @@
         {
            "name": "MOVIES NOW HD",
            "logo_uri": "http://static.epg.best/in/MoviesNow.in.png",
-           "uri": "http://MANtv@t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48160&output=m3u8"
+           "uri": "http://MANtv@185.246.210.47:2200/R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914"
         }, 
         {
             "name": "MNX HD",
