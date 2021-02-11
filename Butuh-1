@@ -483,12 +483,12 @@
        {
            "name": "SONY PIX HD",
            "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-           "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/1933.m3u8.ts"
+           "uri": "http://MaN@bit.ly/2LDTBwe?MANtv"
         },
         {
            "name": "MOVIES NOW HD",
            "logo_uri": "http://static.epg.best/in/MoviesNow.in.png",
-           "uri": "http://MANtv@185.246.210.47:2200/R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914"
+           "uri": ""
         }, 
         {
             "name": "MNX HD",
