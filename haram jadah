@@ -478,7 +478,7 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
-        "name": "FX",
+        "name": "FX HD",
         "logo_uri": "https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png", 
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd",
         "drm_scheme": "widevine",
@@ -540,42 +540,42 @@
           "samples": [
       {
         "name": "BBC EARTH HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-earth.png",
+		"logo_uri": "https://www.overv.eu/wp-content/uploads/2017/11/bbc.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "LOVE NATURE",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/love-nature.png",
+		"logo_uri": "https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-large.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
 	  {
         "name": "NATTIONAL GEOGRAPHIC",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/natgeo.png",
+		"logo_uri": "https://avpn.asia/wp-content/uploads/2016/03/National-Geographic-logo-1024x768.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "NAT GEO WILD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/natgeo-wild.png",
+		"logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "NAT GEO PEOPLE HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nat-geo-people.png",
+		"logo_uri": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nat_Geo_People_HD.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "BBC LIFESTYLE HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-lifestyle.png",
+		"logo_uri": "https://vrchennai.com/UploadFile/Storeimage/Lifestyle-big.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
@@ -589,7 +589,7 @@
       },
       {
         "name": "TRAVEL CHANNEL HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/travel-channel.png",
+		"logo_uri": "https://seeklogo.com/images/T/Travel_Channel-logo-18E372584A-seeklogo.com.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
@@ -638,14 +638,14 @@
       },
       {
         "name": "LUXE.TV HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/luxe-tv.png",
+		"logo_uri": "https://i2.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/Luxe-TV.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "MTV ASIA HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/mtv-asia.png",
+		"logo_uri": "https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
@@ -657,7 +657,7 @@
     "samples": [
       {
         "name": "DREAMWORK HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dreamworks.png",
+		"logo_uri": "https://www.pngkit.com/png/full/289-2898725_dreamwork-logo-without-the-moon-and-the-rot.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
@@ -676,35 +676,35 @@
       },
       {
         "name": "NICK JR.",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nick-jr.png",
+		"logo_uri": "https://www.cableman.ru/sites/default/files/nick_jr..png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "CBEEBIES HD",
-         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/cbeebies.png",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/6/6f/CBeebies.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {           
 		"name": "NICKELODEON",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nickelodeon.png",
+		"logo_uri": "https://www.freepnglogos.com/uploads/nickelodeon-schweiz-logo-png-14.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "BOOMERANG HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/boomerang.png",
+		"logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
-        "name": "BABYTV",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/baby-tv.png",
+        "name": "BABY TV",
+		"logo_uri": "https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
