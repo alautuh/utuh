@@ -11,14 +11,14 @@
       },
       {
         "name": "TV2",
-         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "TV3",
-        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",
+        "logo_uri": "https://www.pngkit.com/png/full/940-9401637_logo-of-tv3-tv3-logo.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
@@ -63,42 +63,42 @@
       },
       {
         "name": "SALAM HD",
-         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/salam.png",
+         "logo_uri": "https://www.unifi-tm.com.my/wp-content/uploads/2018/04/salam.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "TV ALHIJRAH",
-         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/al-hijrah.png",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "HYPP SENSASI HD",
-        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Hypp-Sensasi.png",
+        "logo_uri": "https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/Hypp-sensasi.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "HYPP INSPIRASI HD",
-        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/hypp-inspirasi.png",
+        "logo_uri": "https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/hypp-inspirasi.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "DUNIA SINEMA HD",
-        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png",
+        "logo_uri": "https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/dunia-sinema.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "PESONA HD",
-         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Pesona.png",
+         "logo_uri": "https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/pesona.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
@@ -175,7 +175,7 @@
          "samples": [
       {
         "name": "YUPP THIRAI HD",
-		     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/yupp-thirai.png",
+		     "logo_uri": "https://raw.githubusercontent.com/angahjee1994/logo/master/yuppthirai.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
@@ -203,7 +203,7 @@
       },
       {
         "name": "SONY MAX",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Sony-Max.png",
+		"logo_uri": "https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
@@ -266,14 +266,14 @@
       },
       {
         "name": "SONY SAB",
-		     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/sony-sab.png",
+	 "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/c/c5/Sab_TV.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {        
 		      "name": "SONY SET",
-		       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SONY-SET.png",
+		       "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/5/57/SET_India_2016.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
@@ -292,14 +292,14 @@
           "samples": [
        {
           "name": "TVN MOVIES HD",
-		       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tvN-Movies.png",
+		       "logo_uri": "http://s1044.photobucket.com/albums/b447/Amachongz/435_300_zpswahk30ci.png",
           "uri": "http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd",
           "drm_scheme": "widevine",
           "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
          "name": "TVN HD",
-		      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tvn.png",
+		      "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",
           "uri": "http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd",
           "drm_scheme": "widevine",
           "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
@@ -320,14 +320,14 @@
       },
       {
          "name": "STAR CHINESE MOVIES HD",
-		      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",
+		      "logo_uri": "https://i.dlpng.com/static/png/359808_preview.png",
          "uri": "http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd",
          "drm_scheme": "widevine",
          "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
          "name": "STAR CHINESE LEGEND HD",
-		      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM-Legend.png",
+		      "logo_uri": "https://www.nowtv.now.com/media/logo/140-wbg-e.png",
          "uri": "http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd",
          "drm_scheme": "widevine",
          "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
@@ -389,21 +389,21 @@
          "samples": [
       {
         "name": "FOX MOVIES",
-	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Movies.png",
+	       "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "FOX ACTION MOVIES",
-	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Action.png",
+	       "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/1358px-Fox_Action_logo.svg.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "FOX FAMILY MOVIES",
-		     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Family.png",
+		     "logo_uri": "https://static.miraheze.org/ficreationwiki/b/b9/FOXfamily2016logo.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
@@ -444,21 +444,21 @@
       },
       {
         "name": "PARAMOUNT CHANNEL HD",
-	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/paramount-channel.png",
+	       "logo_uri": "https://static.wikia.nocookie.net/tvfanon6528/images/0/05/Paramount_Channel_%282014-.n.v.%29.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "CINEMA WORLD HD",
-	      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/cinema-world.png",
+	      "logo_uri": "https://img2.pngio.com/home-cinemaworld-world-cinema-png-3508_1128.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "WARNER TV HD",
-	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/warner-tv.png",
+	       "logo_uri": "https://www.nicepng.com/png/full/632-6324794_warner-bros-family-entertainment-logo-png.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
@@ -479,14 +479,14 @@
       },
       {
         "name": "FX",
-        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fx.png", 
+        "logo_uri": "https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png", 
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "FOX LIFE",
-	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Life.png",
+	       "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/8/82/FOXlife3DLA.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
@@ -514,14 +514,14 @@
       },
       {
         "name": "BLUE ANT ENTERTAINMENT HD",
-	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png",
+	       "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "BLUE ANT EXTREME",
-	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-extreme.png",
+	       "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
