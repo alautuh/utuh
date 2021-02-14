@@ -416,7 +416,7 @@
       {
          "name": "HBO",
          "logo_uri": "https://i0.wp.com/reel360.com/wp-content/uploads/2020/05/HBO_logo_blue.png",
-         "uri": "https://MaN@raizo.raizoml123.workers.dev/0:/IPTV/Playlist/Hbo.m3u8"
+         "uri": "http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8"
       },
       {
          "name": "HBO FAMILY",
