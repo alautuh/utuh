@@ -826,21 +826,21 @@
           "samples": [
      {
         "name": "UNIFI SPORTS1",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png",
+		"logo_uri": "https://www.unifi-tm.com.my/wp-content/uploads/2015/10/aneka-plus-channels.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "UNIFI SPORTS2",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png",
+		"logo_uri": "https://www.unifi-tm.com.my/wp-content/uploads/2015/10/aneka-plus-channels.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
       },
       {
         "name": "UNIFI SPORTS3",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png",
+		"logo_uri": "https://www.unifi-tm.com.my/wp-content/uploads/2015/10/aneka-plus-channels.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTk3ZGExNDItZjk2OS0zZjczLThhNmUtNmMyM2YzNjllYjFh"
