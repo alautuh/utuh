@@ -109,12 +109,12 @@
       {
           "name": "ASTRO CERIA 2",
           "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
-        "uri": "http://iptv-line.com:7899/8SFvFs5CfZ/n7ph4s/110228"
+        "uri": "http://MaN@iptvtree.net:8080/F11412/b4380e50/157481?play_token=rpO0tYL31g?MANtv"
       },
       {
         "name": "ASTRO OASIS 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/157489?play_token=fNIh3WwnjR"
+        "uri": "http://MaN@iptvtree.net:8080/F11412/b4380e50/157489?play_token=edRMpVQEYS?MANtv"
       },
       {
         "name": "ASTRO OASIS 2",
@@ -124,7 +124,7 @@
       {
         "name": "ASTRO WARNA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/157492?play_token=kpGVC2BdWi"
+        "uri": "http://MaN@iptvtree.net:8080/F11412/b4380e50/157492?play_token=gMRqheupnH?MANtv"
       },
       {
         "name": "ASTRO WARNA 2",
@@ -139,12 +139,12 @@
       {
         "name": "ASTRO RIA 2",
          "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/158347?play_token=8jAdYdjfRP"
+        "uri": "http://MaN@iptvtree.net:8080/F11412/b4380e50/158347?play_token=S7CrYnFAiX?MANtv"
       },
       {
         "name": "ASTRO CITRA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
-        "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/157569?play_token=a5AIXWWdUZ"
+        "uri": "http://MaN@iptvtree.net:8080/F11412/FepP8BTg23/157569?play_token=3XZWU0LIqn?MANtv"
       },
       {
         "name": "ASTRO CITRA 2",
@@ -154,7 +154,7 @@
       {
         "name": "ASTRO PRIMA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
-        "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/157467?play_token=GnKp29tVNf"
+        "uri": "http://MaN@iptvtree.net:8080/F11412/b4380e50/157467?play_token=hWJznJxRm6?MaNtv"
       },
       {
         "name": "ASTRO PRIMA 2",
@@ -164,7 +164,7 @@
       {
         "name": "ASTRO RANIA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/171984?play_token=4VJdhmGwye"
+        "uri": ""
       },
       {
         "name": "ASTRO RANIA 2",
@@ -179,7 +179,7 @@
       {
         "name": "ASTRO AURA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/171986?play_token=gi03OKzRty"
+        "uri": "http://MaN@iptvtree.net:8080/F11412/b4380e50/171986?play_token=1UKfRrg75R?MANtv"
       },
       {
         "name": "TAYANGAN HEBAT 1",
@@ -189,7 +189,7 @@
       {
         "name": "TAYANGAN HEBAT 2",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png",
-        "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/247407?play_token=vG4Q7nv2pM"
+        "uri": " "
       },
       {
         "name": "ASTRO HELLO",
@@ -204,7 +204,7 @@
       {
         "name": "ASTRO BOO 2 HD",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-        "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/171958?play_token=ORF6DnnAlD"
+        "uri": "http://MaN@iptvtree.net:8080/F11412/b4380e50/171958?play_token=5MTHoVKe7E?MANtv"
       }
     ]
       },
@@ -488,7 +488,7 @@
         {
            "name": "MOVIES NOW HD",
            "logo_uri": "http://static.epg.best/in/MoviesNow.in.png",
-           "uri": "http://MaN@iptv-line.com:7899/Msoscarss3/49v1xe/17105?MANtv"
+           "uri": "http://MaN@iptvtree.net:8080/F11412/b4380e50/169118?play_token=yyP3fF1IWt?MANtv"
         }, 
         {
             "name": "MNX HD",
@@ -498,7 +498,7 @@
         {
             "name": "MNPLUS HD",
             "logo_uri": "https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png",
-            "uri": "http://MANtv@185.59.220.225:25461/8SFvFs5CfZ/n7ph4s/54104?token=GRdRWUpbQV9BB1tUVVRUVQ1YXQUEVARZVgIFUFNTCQlTBVwNCwZVA1cRFEQQFxAGVQxnD1YVCVQHUlQGHEFNQgdHZlFdEVlHUgIPUVJSUEEYQ0wPX1IRWwJVVQEAVwgCWgUVGklaB0dZEQpeU1tTQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUFEDVRpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRWlMCVRob"
+            "uri": "http://MaN@iptvtree.net:8080/F11412/TOOprr34vL/192961?play_token=bQOpXI5q2R?MANtv"
        },
        {
           "name": "GALAXY",
@@ -508,7 +508,7 @@
        {
           "name": "TRING FANTASY",
           "logo_uri": "http://www.albepg.com/tvlogi/Tring%20Fantasy.png",
-          "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/2577?play_token=mR5CEfnQxO"
+          "uri": "http://MaN@iptvtree.net:8080/F11412/b4380e50/2577?play_token=Dp8SucgCVE?MANtv"
       },
       {
           "name": "AKSION HD",
@@ -518,7 +518,7 @@
      {
           "name": "X TRILLER HD",
 	  "logo_uri": "http://www.albepg.com/tvlogi/Film%20Thriller.png",
-          "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/16444?play_token=F7Pglx1Jd9"
+          "uri": "http://MaN@iptvtree.net:8080/F11412/b4380e50/12465?play_token=UsmA2sFdxN?MANtv"
      },
      {
          "name": "SYFY",
