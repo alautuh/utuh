@@ -436,6 +436,21 @@
          "uri": "http://MaN@36.37.252.114:888/Apple/OneTV-029/playlist.m3u8"
       },
       {
+           "name": "Starz Encore Action",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",
+           "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/29464.m3u8.ts?MANtv"
+      },
+      {
+           "name": "SYFY",
+           "logo_uri": "https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/syfy_c.png",
+           "uri": ": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/3096.m3u8.ts?MANtv"
+      },
+      {
+           "name": "X Thriller HD",
+           "logo_uri": "http://www.albepg.com/tvlogi/Film%20Thriller.png",
+           "uri": ": "http://www.albepg.com/tvlogi/Film%20Thriller.png"
+      },
+      {
         "name": "Hits Movies",
         "logo_uri": "https://www.hitstv.com/assets/logo-HITSMOVIES.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
