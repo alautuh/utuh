@@ -586,12 +586,12 @@
       {
          "name": "STAR MOVIES HD",
          "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
-         "uri": "http://MaN@iptvtree.net:8080/Mouse/654cac3f/11511?play_token=X5K912zfwQ"
+         "uri": "http://MaN@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/1896.m3u8.ts?MANtv"
       },
       {
          "name": "SYFY",
          "logo_uri": "https://fastly.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png",
-         "uri": "http://MaN@80.82.77.130:80/live/mag00:1A:79:A8:DA:0F/EM0tETnnZXG8/14193.m3u8.ts"
+         "uri": "http://MaN@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/3096.m3u8.ts?MANtv"
       },
       {
            "name": "&FLIX HD",
@@ -601,7 +601,7 @@
       {
          "name": "SONY PIX HD",
          "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-         "uri": "http://MaN@45.153.33.138:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914?MANtv"
+         "uri": "http://MaN@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/1933.m3u8.ts?MANtv"
       }
     ]
       },
