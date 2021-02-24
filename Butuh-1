@@ -627,7 +627,6 @@
       },
       {
         "name": "EURO CHANNEL",
-        "logo_uri": " ",
         "uri": "https://chromecast.cvattv.com.ar/live/c2live/Eurochannel/SA_Live_dash_enc_2A/Eurochannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://wv-client.cvattv.com.ar/?deviceId=MDBhMTA4MGRhNzM5ZTIzZmNhYzFiNTRmNDg1YzczZjM"
