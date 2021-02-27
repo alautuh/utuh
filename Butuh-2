@@ -163,7 +163,7 @@
          {
               "name": "&XPLOR HD",
               "logo_uri": "https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",
-             "uri": "http://MaN@80.82.77.130:80/live/mag00:1A:79:A8:DA:0F/EM0tETnnZXG8/75417.m3u8.ts"
+             "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/MarceloH/MtSeffG4Gf/55228.m3u8.ts?freenetTV"
         },
         {
               "name": "SONY MAX HD",
@@ -481,13 +481,6 @@
                "uri": "https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd",
                "drm_scheme": "widevine",
                "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh" 
-           },
-           {
-                "name": "Disney XD",
-                "logo_uri": "https://static.wikia.nocookie.net/dreamfiction/images/7/7b/Logo_Disney_XD.svg.png",
-                "uri": "https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd",
-                "drm_scheme": "widevine",
-                "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
            },
            {
                   "name": "ANIMAX",
