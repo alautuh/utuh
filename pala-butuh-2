@@ -577,11 +577,6 @@
         {
              "name": "Premier Sports HD",
              "logo_uri": "https://www.digisport.cz/wp-content/themes/digisport/dist/images/premier-sport_20ba4015.png",
-             "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/28934.m3u8.ts"
-         },
-         {
-             "name": "Premier Sports 2 HD",
-             "logo_uri": "https://www.digisport.cz/wp-content/themes/digisport/dist/images/premier-sport_20ba4015.png",
              "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/28915.m3u8.ts"
          },
          {
