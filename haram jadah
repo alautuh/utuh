@@ -912,22 +912,22 @@
       {
           "name": "ASTRO SUPERSPORTS 1",
           "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-          "uri": "http://MaN@36.37.252.114:888/Apple/OneTV-043/playlist.m3u8?MANtv"
+          "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59220.m3u8.ts"
        },
        {
             "name": "ASTRO SUPERSPORTS 2",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MaN@iptvtree.net:8080/F11412/b4380e50/247417?play_token=eTcFHGwf40"
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59219.m3u8.ts"
         },
         {
             "name": "ASTRO SUPERSPORTS 3",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MaN@36.37.252.114:888/Apple/OneTV-044/playlist.m3u8?MANtv"
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59218.m3u8.ts"
         },
         {
             "name": "ASTRO SUPERSPORTS 4",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MaN@iptvtree.net:8080/F11412/b4380e50/247419?play_token=iHDBIypF8S"
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59217.m3u8.ts"
         },
         {
              "name": "FISHING NETWORK",
