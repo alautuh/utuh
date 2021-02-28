@@ -612,62 +612,62 @@
          {
             "name": "SONY TEN 1",
             "logo_uri": "https://static.epg.best/in/SonyTEN1.in.png",
-            "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1903.m3u8.ts" 
+            "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1903.m3u8.ts?freenetTV" 
          },
          {
              "name": "SONY TEN 2",
              "logo_uri": "https://static.epg.best/in/SonyTEN2.in.png",
-             "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1904.m3u8.ts"
+             "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1904.m3u8.ts?freenetTV"
          },
          {
               "name": "ASTRO ARENA",
               "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
-              "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/71102.m3u8.ts"
+              "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/71102.m3u8.ts?freenetTV"
          },
          {
              "name": "START SPORTS SELECT 1",
              "logo_uri": "https://static.epg.best/in/StarSportsSelect1.in.png",
-             "uri": "http://MaN@ckte2.coolmyvip.club:8880/VafpnvRW5a/PCRhMJcm82/55340?MANtv"
+             "uri": "http://MaN@ckte2.coolmyvip.club:8880/VafpnvRW5a/PCRhMJcm82/55340?freenetTV"
          },
          {
              "name": "STAR SPORTS SELECT 2",
              "logo_uri": "https://static.epg.best/in/StarSportsSelect2.in.png",
-              "uri": "http://MaN@ckte2.coolmyvip.club:8880/VafpnvRW5a/PCRhMJcm82/55338?MANtv"
+              "uri": "http://MaN@ckte2.coolmyvip.club:8880/VafpnvRW5a/PCRhMJcm82/55338?freenetTV"
          },
          {
              "name": "Premier Sports HD",
              "logo_uri": "https://www.digisport.cz/wp-content/themes/digisport/dist/images/premier-sport_20ba4015.png",
-             "uri": "http://MaN@ckte2.coolmyvip.club:8880/VafpnvRW5a/PCRhMJcm82/28934?MANtv"
+             "uri": "http://MaN@ckte2.coolmyvip.club:8880/VafpnvRW5a/PCRhMJcm82/28934?freenetTV"
          },
          {
              "name": "SPORT TV 1 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png",
-             "uri": "http://MaN@e8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/3192.m3u8.ts?MANtv"
+             "uri": "http://MaN@e8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/3192.m3u8.ts?freenetTV"
          },
          {
              "name": "SPORT TV 2 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png",
-             "uri": "http://MaN@e8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/3191.m3u8.ts?MANtv"
+             "uri": "http://MaN@e8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/3191.m3u8.ts?freenetTV"
          },
          {
              "name": "SPORT TV 3 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png",
-             "uri": "http://MaN@e8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/3190.m3u8.ts?MANtv"
+             "uri": "http://MaN@e8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/3190.m3u8.ts?freenetTV"
          },
          {
              "name": "FISHING NETWORK",
              "logo_uri": "https://i.imgur.com/Dk3oPCs.png",
-              "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/12983?play_token=eHyyTohSIL"
+              "uri": "http://MaN@ckte2.coolmyvip.club:8880/VafpnvRW5a/PCRhMJcm82/30040?freenetTV"
          },
          {
              "name": "EUROSPORTS 1",
              "logo_uri": "https://i.imgur.com/jPW4CkF.png",
-             "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/28819.m3u8.ts"
+             "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/28819.m3u8.ts?freenetTV"
          },
          {
              "name": "EUROSPORTS 2",
              "logo_uri": "https://i.imgur.com/syYVNay.png?1",
-              "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/28947.m3u8.ts"
+              "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/28947.m3u8.ts?freenetTV"
             }
           ]
         }
