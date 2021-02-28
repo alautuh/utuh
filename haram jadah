@@ -910,6 +910,16 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
+            "name": "START SPORTS SELECT 1",
+            "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/55340.m3u8.ts"
+        },
+        {
+            "name": "STAR SPORTS SELECT 2",
+            "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/55338.m3u8.ts"
+        },
+        {
           "name": "ASTRO SUPERSPORTS 1",
           "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
           "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59220.m3u8.ts"
