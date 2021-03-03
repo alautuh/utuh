@@ -295,11 +295,6 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
-         "name": "Sinema Indonesia X",
-         "logo_uri": "https://2.bp.blogspot.com/-9HsiQwKBqN8/WXwAm1eAs9I/AAAAAAAAjgE/0JPCfnifVnMkLp5HFiFF0ew6SixwyIEsgCLcBGAs/s1600/sinema-indonesia-channel-tv-logo.png",
-         "uri": "http://MaN@wz.insantv.net/monitor/ch106.m3u8"
-      },
-      {
         "name": "ie",
         "logo_uri": "https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059261_logo_ie.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd",
@@ -508,9 +503,9 @@
          "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/64352.m3u8.ts"
        },
        {
-           "name": "CINEMAX(us)",
-           "logo_uri": "https://hd-report.com/wp-content/uploads/2012/08/Cinemax-2011-logo.png",
-           "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/64357.m3u8.ts"
+           "name": "STAR ACTION",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
+           "uri": "http://MaN@152.89.62.105:8880/ice12m1057/ns546857/59541?MANtv"
        },
        {
           "name": "SYFY(uk)",
