@@ -288,7 +288,7 @@
     ]
       },
       {
-          "name": "KOREA/JAPAN/CHINA",
+          "name": "KOREA/JAPAN/CHINA/PHILIPPIN",
           "samples": [
        {
           "name": "TVN MOVIES HD",
@@ -359,6 +359,16 @@
          "uri": "http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd",
          "drm_scheme": "widevine",
          "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+         "name": "Pinoy TV",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png",
+         "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/50124.m3u8.ts?MTO"
+      },
+      {
+         "name": "CINEMA ONE",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png",
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/get.php?username=rBVPPhwvrj&password=CWvtxZY9rx&type=m3u.ts?MTO"
       },
       {
          "name": "SonyOne",
