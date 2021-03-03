@@ -41,7 +41,7 @@
    ]
       },
       {
-          "name": "CHINESE/JEPUN/KOREA",
+          "name": "CHINESE/JEPUN/KOREA/PHILIPPIN",
            "samples": [
       {
         "name": "CELESTIAL MOVIES",
@@ -89,6 +89,16 @@
          "name": "RED BY HBO",
          "logo_uri": "https://i.ibb.co/swQNcWz/REDBHBOIDD-S1.png",
          "uri": "http://MaN@fdtvapps.xyz/channel/red.m3u8"
+      },
+      {
+         "name": "Pinoy TV",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png",
+         "uri": "http://MaN@e8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/50124.m3u8.ts?MANtv"
+      },
+      {
+         "name": "CINEMA ONE",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png",
+         "uri": "http://MaN@e8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/50119.m3u8.ts?MANtv"
       },
       {
         "name": "ASTRO AEC",
