@@ -378,11 +378,6 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
-         "name": "Sinema Indonesia X",
-         "logo_uri": "https://2.bp.blogspot.com/-9HsiQwKBqN8/WXwAm1eAs9I/AAAAAAAAjgE/0JPCfnifVnMkLp5HFiFF0ew6SixwyIEsgCLcBGAs/s1600/sinema-indonesia-channel-tv-logo.png",
-         "uri": "http://MaN@wz.insantv.net/monitor/ch106.m3u8"
-      },
-      {
         "name": "OK TV",
          "logo_uri": "https://www.lyngsat.com/logo/tv/oo/ok-tv-id.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd",
@@ -476,9 +471,9 @@
            "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1896.m3u8.ts"
        },
        {
-            "name": "SONY MOVIES HD",
-            "logo_uri": "https://i.imgur.com/wl3tjXZ.png",
-            "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/28733.m3u8.ts"
+            "name": "STAR MOVIES",
+            "logo_uri": "https://seeklogo.com/images/S/Star_Movies-logo-6001726367-seeklogo.com.png",
+            "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/59541.m3u8.ts?freenetTV"
        },
        {
            "name": "SONY PIX HD",
