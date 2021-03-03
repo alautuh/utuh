@@ -268,6 +268,16 @@
          "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71038.m3u8.ts"
       },
       {
+         "name": "Pinoy TV",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png",
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/VafpnvRW5a/PCRhMJcm82/50124?freenetTV"
+      },
+      {
+         "name": "CINEMA ONE",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png",
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/VafpnvRW5a/PCRhMJcm82/50119?freenetTV"
+      },
+      {
         "name": "KIX",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd",
