@@ -175,7 +175,7 @@
          "samples": [
       {
         "name": "YUPP THIRAI HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/yupp-thirai.png",
+		"logo_uri": "https://raw.githubusercontent.com/angahjee1994/logo/master/yuppthirai.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
