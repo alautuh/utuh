@@ -24,11 +24,6 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
-        "name": "KARAOKE CHANNEL",
-        "logo_uri": "https://surveymonkey-assets.s3.amazonaws.com/survey/155452577/321c2f75-b60c-43e8-bcaf-6a15b67c7179.png",
-        "uri": "http://MaN@edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8"
-      },
-      {
         "name": "MALEO",
         "logo_uri": "https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png",
         "uri": "http://MaN@stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8"
@@ -146,7 +141,7 @@
            "samples": [
       {
         "name": "YUPP THIRAI HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/yupp-thirai.png",
+		"logo_uri": "https://raw.githubusercontent.com/angahjee1994/logo/master/yuppthirai.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
