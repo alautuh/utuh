@@ -402,7 +402,7 @@
     {
         "name": "HBO 3",
          "logo_uri": "https://ewsat.com/img/HBO3.png",
-         "uri": "http://MaN@skylogic.site:8080/live/f653192f/Ms3FtoRU2B/10696.ts"
+         "uri": "http://Man@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/30442.m3u8.ts?freenetTV"
     },
     {
         "name": "CINEMAX(us)",
@@ -478,7 +478,7 @@
         {
             "name": "MNX HD",
             "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png",
-            "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/192962?play_token=YL7bjyBway"
+            "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/55281.m3u8.ts?freenetTV"
         },
         {
             "name": "MNPLUS HD",
