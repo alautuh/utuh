@@ -363,7 +363,7 @@
       {
          "name": "HBO(backup)",
          "logo_uri": "https://i0.wp.com/reel360.com/wp-content/uploads/2020/05/HBO_logo_blue.png",
-         "uri": "https://MaN@liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8"
+         "uri": "http://MaN@152.89.62.105:8880/ice12m1057/ns546857/71057?MANtv"
       },
       {
         "name": "HBO SIGNATURE",
