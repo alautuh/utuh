@@ -375,7 +375,7 @@
       {
          "name": "HBO SIGNATURE(backup)",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",
-         "uri": "http://MaN@80.82.77.130:80/live/mag00:1A:79:A8:DA:0F/EM0tETnnZXG8/74201.m3u8.ts"
+         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8"
       },
       {
         "name": "HBO FAMILY",
@@ -406,7 +406,7 @@
       {
          "name": "CINEMAX(backup)",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png",
-         "uri": "http://fdtvapps.xyz/channel/cinemax.m3u8"
+         "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/71058.m3u8.ts?MANtv"
       },
       {
         "name": "FOX MOVIES",
@@ -475,12 +475,12 @@
        {
          "name": "STAR MOVIES HD",
          "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
-         "uri": "http://MaN@skylogic.site:8080/live/f653192f/Ms3FtoRU2B/11511.m3u8.ts"
+         "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/1896.m3u8.ts?MANtv"
        },
        {
          "name": "AND FLIX HD",
          "logo_uri": "https://static.epg.best/in/AndFlix.in.png",
-         "uri": "http://MaN@skylogic.site:8080/live/f653192f/Ms3FtoRU2B/45506.ts"
+         "uri": "http://Man@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/54975.m3u8.ts?MANtv"
        },
        {
          "name": "AND PRIVE HD",
