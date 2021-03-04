@@ -116,6 +116,11 @@
          "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71038.m3u8.ts"
       },
       {
+         "name": "oh!k HD",
+         "logo_uri": "https://www.ohk-tv.com/img/logo.png",
+         "uri": "http://MaN@e8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/71054.m3u8.ts?MANtv"
+      },
+      {
          "name": "ZQ DRAMA",
          "logo_uri": "https://apkplz.net/storage/images/com/zqtv/live/com.zqtv.live_1.png",
          "uri": "http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0"
