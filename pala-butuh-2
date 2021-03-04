@@ -162,15 +162,8 @@
       },
       {
         "name": "SONY MAX",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Sony-Max.png",
+		"logo_uri": "https://static.wikia.nocookie.net/tvfanon6528/images/0/01/Sony_Max_%282019-.n.v.%29.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
-      },
-      {
-        "name": "UTV MOVIES HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Utv-Movies.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227594/3221227594.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
@@ -211,14 +204,14 @@
       },
       {
         "name": "SONY SAB",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/sony-sab.png",
+		"logo_uri": "https://static.wikia.nocookie.net/logopedia/images/c/c5/Sab_TV.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {        
 		"name": "SONY SET",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SONY-SET.png",
+		"logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
@@ -250,6 +243,11 @@
           "uri": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
           "drm_scheme": "widevine",
           "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+       },
+       {
+            "name": "&PICTURES",
+            "logo_uri": "https://dennbc.com/wp-content/uploads/2018/12/ChannelLogo_635509666377656250.png",
+            "uri": "http://MaN@152.89.62.105:8880/live/ice12m1057/ns546857/1957.m3u8.ts?MANtv"
        },
        {
             "name": "B4u Kadak",
