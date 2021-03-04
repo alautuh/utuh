@@ -451,6 +451,11 @@
          "uri": "http://MaN@36.37.252.114:888/Apple/OneTV-029/playlist.m3u8"
       },
       {
+           "name": "&Flix HD",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
+           "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/54975.m3u8.ts?MTO"
+      },
+      {
            "name": "Starz Encore Action",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",
            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/29464.m3u8.ts?MANtv"
@@ -532,13 +537,6 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
-      },
-      {
-        "name": "COMEDY CENTRAL HD",
-	       "logo_uri": "https://static.wixstatic.com/media/cb0516_4b612aa18d5d466890333ce0ff23e411~mv2.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227581/3221227581.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
         "name": "AXN",
