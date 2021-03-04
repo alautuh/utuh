@@ -426,7 +426,7 @@
       {
          "name": "HBO SIGNATURE",
          "logo_uri": "https://static.epg.best/us/HBOSignature.us.png",
-         "uri": "http://MaN@80.82.77.130:80/live/mag00:1A:79:A8:DA:0F/EM0tETnnZXG8/74201.m3u8.ts"
+         "uri": "http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8"
       },
       {
          "name": "HBO",
