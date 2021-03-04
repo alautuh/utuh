@@ -24,11 +24,6 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
-        "name": "KARAOKE CHANNEL",
-        "logo_uri": "https://surveymonkey-assets.s3.amazonaws.com/survey/155452577/321c2f75-b60c-43e8-bcaf-6a15b67c7179.png",
-        "uri": "http://MaN@edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8"
-      },
-      {
         "name": "MALEO",
         "logo_uri": "https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png",
         "uri": "http://MaN@stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8"
@@ -176,9 +171,9 @@
             "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/71037.m3u8.ts"
         },
         {
-            "name": "B4u Kadak",
-            "logo_uri": "https://indeltv.in/wp-content/uploads/2019/11/Channel_B4ukadak.png",
-            "uri": "http://MaN@iptvtree.net:8080/test-b9ca82/d13f/49556?play_token=BmyjmT85hw"
+            "name": "B4U MOVIES",
+            "logo_uri": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/b4u-movies-large.png",
+            "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/VafpnvRW5a/PCRhMJcm82/1954.m3u8.ts?freenetTV"
         }
      ]
        },
