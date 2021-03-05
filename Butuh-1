@@ -415,6 +415,11 @@
          "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/3099.m3u8.ts"
      },
      {
+           "name": "DISNEY +",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png",
+           "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/52355.m3u8.ts?freenetTV"
+     },
+     {
           "name": "Epix Hits",
           "logo_uri": "https://sc.dish.com/shared/images/station-logos/EPIXH.png",
           "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59224.m3u8.ts"
