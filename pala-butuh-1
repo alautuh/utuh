@@ -99,12 +99,12 @@
       {
            "name": "ASTRO NAURA",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png",
-           "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71023.m3u8.ts"
+           "uri": "http://MaN@ed8.oknirvana.club:8880/live/fNyVZcWk3j/DyfMXGAsZY/71023.m3u8.ts?MANtv"
       },
       {
            "name": "ASTRO HELLO",
            "logo_uri": "https://image.flaticon.com/icons/png/512/748/748168.png",
-           "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71088.m3u8.ts"
+           "uri": "http://MaN@ed8.oknirvana.club:8880/live/fNyVZcWk3j/DyfMXGAsZY/71088.m3u8.ts?MANtv"
       },
       {
           "name": "ASTRO CERIA 1",
@@ -124,12 +124,12 @@
       {
         "name": "ASTRO OASIS 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71021.m3u8.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/fNyVZcWk3j/DyfMXGAsZY/71021.m3u8.ts?MANtv"
       },
       {
         "name": "ASTRO WARNA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71022.m3u8.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/fNyVZcWk3j/DyfMXGAsZY/71022.m3u8.ts?MANtv"
       },
       {
         "name": "ASTRO WARNA 2",
@@ -144,7 +144,7 @@
       {
         "name": "ASTRO RIA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1705.m3u8.ts"
+        "uri": " http://MaN@ed8.oknirvana.club:8880/live/fNyVZcWk3j/DyfMXGAsZY/1705.m3u8.ts?MANtv"
       },
       {
         "name": "ASTRO CITRA 1",
@@ -164,17 +164,17 @@
       {
         "name": "ASTRO PRIMA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71020.m3u8.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/fNyVZcWk3j/DyfMXGAsZY/71020.m3u8.ts?MANtv"
       },
       {
         "name": "ASTRO RANIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71144.m3u8.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/fNyVZcWk3j/DyfMXGAsZY/71144.m3u8.ts?MANtv"
       },
       {
         "name": "ASTRO AURA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71145.m3u8.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/fNyVZcWk3j/DyfMXGAsZY/71145.m3u8.ts?MANtv"
       },
       {
         "name": "ASTRO BOO HD",
@@ -460,7 +460,7 @@
        {
          "name": "SONY PIX HD",
          "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-         "uri": "http://MaN@e8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1933.m3u8.ts?MANtv"
+         "uri": "http://MaN@ed8.oknirvana.club:8880/live/fNyVZcWk3j/DyfMXGAsZY/1933.m3u8.ts?MANtv"
        },
        {
           "name": "Starz Encore Action",
