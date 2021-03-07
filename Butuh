@@ -589,6 +589,11 @@
          "uri": "http://MaN@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/1896.m3u8.ts?hypptv"
       },
       {
+           "name": "DISNEY+ HD",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png",
+           "uri": "http://MaN@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/60230.m3u8.ts?hyppTV"
+      },
+      {
          "name": "STAR ACTION",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
          "uri": "http://MaN@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/59541.m3u8.ts?HyppTV  "
