@@ -476,6 +476,11 @@
             "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/59541.m3u8.ts?freenetTV"
        },
        {
+            "name": "STAR HITS",
+            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
+            "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/59538.m3u8.ts?freenetTV"
+       },
+       {
            "name": "SONY PIX HD",
            "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
            "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/1933.m3u8.ts?MANtv"
