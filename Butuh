@@ -594,6 +594,11 @@
          "uri": "http://MaN@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/59541.m3u8.ts?HyppTV  "
       },
       {
+         "name": "STAR HITS",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/59538.m3u8.ts?hyppTV"
+      },
+      {
          "name": "SYFY",
          "logo_uri": "https://fastly.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png",
          "uri": "http://MaN@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/3096.m3u8.ts?hypptv"
