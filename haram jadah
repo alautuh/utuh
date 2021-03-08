@@ -136,7 +136,7 @@
       {
         "name": "ASTRO RIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/1705.m3u8.ts?MANtv"
+        "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/1705.m3u8.ts?MTO"
       },
       {
         "name": "ASTRO CITRA",
@@ -468,7 +468,7 @@
       {
            "name": "SYFY",
            "logo_uri": "https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/syfy_c.png",
-           "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/3096.m3u8.ts?MANtv"
+           "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/3096.m3u8.ts?MTO"
       },
       {
            "name": "STAR ACTION",
@@ -940,37 +940,37 @@
       {
             "name": "START SPORTS SELECT 1",
             "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
-            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/55340.m3u8.ts"
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/55340.m3u8.ts?MTO"
         },
         {
             "name": "STAR SPORTS SELECT 2",
             "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
-            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/55338.m3u8.ts"
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/55338.m3u8.ts?MTO"
         },
         {
           "name": "ASTRO SUPERSPORTS 1",
           "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-          "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59220.m3u8.ts"
+          "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59220.m3u8.ts?MTO"
        },
        {
             "name": "ASTRO SUPERSPORTS 2",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59219.m3u8.ts"
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59219.m3u8.ts?MTO"
         },
         {
             "name": "ASTRO SUPERSPORTS 3",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59218.m3u8.ts"
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59218.m3u8.ts?MTO"
         },
         {
             "name": "ASTRO SUPERSPORTS 4",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59217.m3u8.ts"
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59217.m3u8.ts?MTO"
         },
         {
              "name": "SPORT TV 1 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png",
-             "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/3192.m3u8.ts"
+             "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/3192.m3u8.ts?MTO"
          },
          {
              "name": "SPORT TV 2 HD",
@@ -980,17 +980,17 @@
          {
              "name": "SPORT TV 3 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png",
-             "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/3190.m3u8.ts"
+             "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/3190.m3u8.ts?MTO"
          },
          {
              "name": "FISHING NETWORK",
              "logo_uri": "https://i.imgur.com/Dk3oPCs.png",
-              "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/MarceloH/MtSeffG4Gf/30040.m3u8.ts?freenetTV"
+              "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/MarceloH/MtSeffG4Gf/30040.m3u8.ts?MTO"
          },
          {
            "name": "ASTRO ARENA",
            "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
-           "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/71102.m3u8.ts?MANtv"
+           "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/71102.m3u8.ts?MTO"
         }
       ]
     }	
