@@ -465,7 +465,7 @@
        {
           "name": "Starz Encore Action",
           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",
-          "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/29464.m3u8.ts"
+          "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/29464.m3u8.ts?MANtv"
        },
        {
            "name": "SAMURAI MOVIES",
@@ -490,7 +490,7 @@
        {
             "name": "MNPLUS HD",
             "logo_uri": "https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png",
-            "uri": "http://MaN@skylogic.site:8080/live/f653192f/Ms3FtoRU2B/192961.ts"
+            "uri": "http://MaN@skylogic.site:8080/live/f653192f/Ms3FtoRU2B/192961.ts?MANtv"
        },
        {
          "name": "MNX HD",
@@ -500,7 +500,7 @@
        {
          "name": "ACTION MAX(us)",
          "logo_uri": "https://cdn.tvpassport.com/image/station/240x135/actionmax.png",
-         "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/64352.m3u8.ts"
+         "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/64352.m3u8.ts?MANtv"
        },
        {
            "name": "STAR ACTION",
@@ -515,7 +515,7 @@
        {
           "name": "SYFY(uk)",
           "logo_uri": "https://fastly.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png",
-          "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/3096.m3u8.ts"
+          "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/3096.m3u8.ts?MANtv"
        },
        {
            "name": "DISNEY+ HD",
