@@ -111,32 +111,32 @@
       {
         "name": "ASTRO NAURA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",
-        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71023.m3u8.ts"
+        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71023.m3u8.ts?hyppTV"
       },
       {
         "name": "ASTRO HELLO",
         "logo_uri": "https://liveatpc.com/wp-content/uploads/2018/08/Astro-HEllo.jpg",
-        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71088.m3u8.ts"
+        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71088.m3u8.ts?hyppTV"
       },
       {
           "name": "ASTRO CERIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
-        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71080.m3u8.ts"
+        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71080.m3u8.ts?hyppTV"
       },
       {
         "name": "ASTRO OASIS",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71021.m3u8.ts"
+        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71021.m3u8.ts?hyppTV"
       },
       {
         "name": "ASTRO WARNA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71022.m3u8.ts"
+        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71022.m3u8.ts?hyppTV"
       },
       {
         "name": "ASTRO RIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/1705.m3u8.ts"
+        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/1705.m3u8.ts?hyppTV"
       },
       {
         "name": "ASTRO CITRA",
@@ -146,17 +146,17 @@
       {
         "name": "ASTRO PRIMA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
-        "uri": "http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8"
+        "uri": "http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8?hyppTV"
       },
       {
         "name": "ASTRO RANIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71144.m3u8.ts"
+        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71144.m3u8.ts?hyppTV"
       },
       {
         "name": "ASTRO AURA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71145.m3u8.ts"
+        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71145.m3u8.ts?hyppTV"
       },
       {
         "name": "TAYANGAN HEBAT",
@@ -166,7 +166,7 @@
       {
         "name": "ASTRO BOO HD",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-        "uri": "https://MaN@raizo.raizoml123.workers.dev/0:/IPTV/Playlist/Boo.m3u8"
+        "uri": "https://MaN@raizo.raizoml123.workers.dev/0:/IPTV/Playlist/Boo.m3u8?hyppTV"
       }
     ]
       },
@@ -377,7 +377,7 @@
       {
          "name": "SHUANG XING",
          "logo_uri": "https://www.lookp.com/assets/gallery/astro-Image4.png",
-         "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/1727.m3u8.ts"
+         "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/1727.m3u8.ts?hyppTV"
       },
       {
          "name": "oh!k HD",
@@ -392,17 +392,17 @@
       {
          "name": "IQIYI",
          "logo_uri": "https://deadline.com/wp-content/uploads/2016/12/iqiyi.png",
-         "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71038.m3u8.ts"
+         "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71038.m3u8.ts?hyppTV"
       },
       {
            "name": "SAMURAI MOVIES",
            "logo_uri": "https://www.kindpng.com/picc/m/15-153899_clip-art-samurai-logo-png-transparent-png.png",
-           "uri": "https://cdn6.goprimetime.info/feed/LC2/index.m3u8"
+           "uri": "https://cdn6.goprimetime.info/feed/LC2/index.m3u8?hyppTV"
       },
       {
           "name": "RED BY HBO",
           "logo_uri": "https://i.ibb.co/swQNcWz/REDBHBOIDD-S1.png",
-          "uri": "http://fdtvapps.xyz/channel/red.m3u8"
+          "uri": "http://fdtvapps.xyz/channel/red.m3u8?hyppTV"
       }
     ]
       },
@@ -757,7 +757,7 @@
       {
         "name": "ANIPLUS",
         "logo_uri": "https://i.imgur.com/y1LQk44.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71110.m3u8.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/14m97593/5FGRxJvVH5/71110.m3u8.ts?hyppTV"
       },
       {
         "name": "NICK JR.",
@@ -994,22 +994,22 @@
        {
             "name": "ASTRO SUPERSPORTS 2",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": " http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/59219.m3u8.ts"
+            "uri": " http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/59219.m3u8.ts?hyppTV"
         },
         {
             "name": "ASTRO SUPERSPORTS 3",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/59218.m3u8.ts"
+            "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/59218.m3u8.ts?hyppTV"
         },
         {
             "name": "ASTRO SUPERSPORTS 4",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/59217.m3u8.ts"
+            "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/59217.m3u8.ts?hyppTV"
         },
         {
            "name": "ASTRO ARENA",
            "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
-           "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71102.m3u8.ts"
+           "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71102.m3u8.ts?hyppTV"
         }
       ]
     }	
