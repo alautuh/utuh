@@ -98,17 +98,17 @@
       {
         "name": "ASTRO AEC",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/zh/thumb/0/06/Astro_AEC_HD.png/400px-Astro_AEC_HD.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1723.m3u8.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1723.m3u8.ts?MANtv"
       },
       {
         "name": "ASTRO AOD",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1724.m3u8.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1724.m3u8.ts?MANtv"
       },
       {
         "name": "ASTRO ShuangXing",
         "logo_uri": "https://www.astro-com.my/wp-content/uploads/2016/01/Astro-ShuangXing-HD-CH307-300x185.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1727.m3u8.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1727.m3u8.ts?MANtv"
       },
       {
          "name": "IQIYI",
@@ -257,7 +257,7 @@
        {
             "name": "B4u Kadak",
             "logo_uri": "https://indeltv.in/wp-content/uploads/2019/11/Channel_B4ukadak.png",
-            "uri": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"
+            "uri": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?MANtv"
        },
        {        
 		"name": "MTV HD",
@@ -316,7 +316,7 @@
       {
         "name": "ANIPLUS",
         "logo_uri": "https://i.imgur.com/y1LQk44.png",
-        "uri": "http://skylogic.site:8080/live/test-086224/TmJ6gQxGTf/157566.ts"
+        "uri": "http://skylogic.site:8080/live/test-086224/TmJ6gQxGTf/157566.ts?MANtv"
       },
       {
         "name": "ANIMAX",
@@ -575,12 +575,12 @@
         {
             "name": "START SPORTS SELECT 1",
             "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
-            "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/55340.m3u8.ts"
+            "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/55340.m3u8.ts?MANtv"
         },
         {
             "name": "STAR SPORTS SELECT 2",
             "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
-            "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/55338.m3u8.ts"
+            "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/55338.m3u8.ts?MANtv"
         },
         {
              "name": "Premier Sports HD",
