@@ -405,12 +405,12 @@
         {
               "name": "DOCUBOX HD",
               "logo_uri": "https://i.imgur.com/rnQMXRm.jpg",
-              "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/49232.m3u8.ts"
+              "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/49232.m3u8.ts?freenetTV"
         },
         {
               "name": "OUTDOOR",
               "logo_uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES",
-              "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59198.m3u8.ts"
+              "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59198.m3u8.ts?freenetTV"
          }
       ]
         },
@@ -576,22 +576,22 @@
         {
           "name": "ASTRO SUPERSPORTS 1",
           "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-          "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59220.m3u8.ts"
+          "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59220.m3u8.ts?freenetTV"
        },
        {
             "name": "ASTRO SUPERSPORTS 2",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": " http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59219.m3u8.ts"
+            "uri": " http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59219.m3u8.ts?freenetTV"
         },
         {
             "name": "ASTRO SUPERSPORTS 3",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59218.m3u8.ts"
+            "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59218.m3u8.ts?freenetTV"
         },
         {
             "name": "ASTRO SUPERSPORTS 4",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59217.m3u8.ts"
+            "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59217.m3u8.ts?freenetTV"
          },
          {
             "name": "BEIN SPORTS 1",
