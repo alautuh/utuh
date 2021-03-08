@@ -94,7 +94,7 @@
       {
         "name": "DRAMA SANGAT",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/71117.m3u8.ts?MANtv"
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/71117.m3u8.ts?freenetTV"
       },
       {
         "name": "ASTRO NAURA",
@@ -104,7 +104,7 @@
       {
           "name": "ASTRO CERIA 1",
           "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
-          "uri": "http://MaN@skylogic.site:8080/live/test-086224/TmJ6gQxGTf/157481.m3u8.ts"
+          "uri": "http://MaN@skylogic.site:8080/live/test-086224/TmJ6gQxGTf/157481.m3u8.ts?freenetTV"
       },
       {
           "name": "ASTRO CERIA 2",
@@ -114,7 +114,7 @@
       {
         "name": "ASTRO OASIS 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/157489?play_token=dAvfcxYLyW"
+        "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/157489?play_token=dAvfcxYLyW?freenetTV"
       },
       {
         "name": "ASTRO OASIS 2",
@@ -124,7 +124,7 @@
       {
         "name": "ASTRO WARNA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/157492?play_token=FsML0qL3yr"
+        "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/157492?play_token=FsML0qL3yr?freenetTV"
       },
       {
         "name": "ASTRO WARNA 2",
@@ -139,7 +139,7 @@
       {
         "name": "ASTRO RIA 2",
          "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/158347?play_token=AXTyIy8cEg"
+        "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/158347?play_token=AXTyIy8cEg?freenetTV"
       },
       {
         "name": "ASTRO CITRA 1",
@@ -149,12 +149,12 @@
       {
         "name": "ASTRO CITRA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
-        "uri": "https://MaN@raizo.raizoml123.workers.dev/0:/IPTV/Playlist/Citra.m3u8?MANtv"
+        "uri": "https://MaN@raizo.raizoml123.workers.dev/0:/IPTV/Playlist/Citra.m3u8?freenetTV"
       },
       {
         "name": "ASTRO PRIMA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
-        "uri": "http://MaN@live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8"
+        "uri": "http://MaN@live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8?freenetTV"
       },
       {
         "name": "ASTRO PRIMA 2",
@@ -164,22 +164,22 @@
       {
         "name": "ASTRO RANIA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/71144.m3u8.ts?MANtv"
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/71144.m3u8.ts?freenetTV"
       },
       {
         "name": "ASTRO RANIA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://MaN@skylogic.site:8080/live/test-086224/TmJ6gQxGTf/171984.m3u8.ts"
+        "uri": "http://MaN@skylogic.site:8080/live/test-086224/TmJ6gQxGTf/171984.m3u8.ts?freenetTV"
       },
       {
         "name": "ASTRO AURA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/71145.m3u8.ts"
+        "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/71145.m3u8.ts?freenetTV"
       },
       {
         "name": "ASTRO AURA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/171986?play_token=Z3wYWm7m9M"
+        "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/171986?play_token=Z3wYWm7m9M?freenetTV"
       },
       {
         "name": "TAYANGAN HEBAT 1",
@@ -483,27 +483,22 @@
        {
            "name": "SONY PIX HD",
            "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-           "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/1933.m3u8.ts?MANtv"
+           "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/1933.m3u8.ts?freenetTV"
         },
         {
             "name": "MNX HD",
             "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png",
             "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/55281.m3u8.ts?freenetTV"
-        },
-        {
-            "name": "MNPLUS HD",
-            "logo_uri": "https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png",
-            "uri": "http://MaN@iptvtree.net:8080/F11412/TOOprr34vL/192961?play_token=bQOpXI5q2R?MANtv"
        },
        {
           "name": "TRING FANTASY",
           "logo_uri": "http://www.albepg.com/tvlogi/Tring%20Fantasy.png",
-          "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/30561.m3u8.ts?MANtv"
+          "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/30561.m3u8.ts?freenetTV"
       },
       {
           "name": "AKSION HD",
           "logo_uri": "http://albepg.com/tvlogi/Film%20Aksion.png",
-          "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/30329.m3u8.ts?freenet_TV"
+          "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/30329.m3u8.ts?freenetTV"
      },
      {
           "name": "X TRILLER HD",
@@ -513,12 +508,12 @@
      {
          "name": "SYFY",
          "logo_uri": "https://fastly.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png",
-         "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/3096.m3u8.ts"
+         "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/3096.m3u8.ts?freenetTV"
        },
        {
          "name": "X ACTION HD",
           "logo_uri": "http://www.albepg.com/tvlogi/Kino%20Action%20HD.png",
-         "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/30591.m3u8.ts"
+         "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/30591.m3u8.ts?freenetTV"
        }
      ]
        },
