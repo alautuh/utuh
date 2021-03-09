@@ -209,13 +209,6 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
-        "name": "UTV MOVIES HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Utv-Movies.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227594/3221227594.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
-      },
-      {
          "name": "COLORS CINEPLEX",
 		"logo_uri": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000041660000/PORTRAIT/ntnToCGg.png",
          "uri": "http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd",
