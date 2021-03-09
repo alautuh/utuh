@@ -549,13 +549,6 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
-        "name": "COMEDY CENTRAL HD",
-	"logo_uri": "https://static.wixstatic.com/media/cb0516_4b612aa18d5d466890333ce0ff23e411~mv2.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227581/3221227581.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
-      },
-      {
         "name": "AXN",
         "logo_uri": "https://static.epg.best/kr/AXN.kr.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd",
