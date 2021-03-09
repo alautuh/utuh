@@ -553,6 +553,16 @@
          "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
        },
        {
+          "name": "BT SPORTS 1",
+          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png",
+          "uri": "http://MaN@152.89.62.105:8880/ice12m1057/ns546857/2943?MANtv"
+       },
+       {
+          "name": "BT SPORTS 2",
+          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png",
+          "uri": "http://MaN@152.89.62.105:8880/ice12m1057/ns546857/2943?MANtv"
+       },
+       {
           "name": "ASTRO SUPERSPORTS 1",
           "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
           "uri": "http://MaN@e8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/59220.m3u8.ts?MANtv"
