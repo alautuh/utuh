@@ -278,6 +278,11 @@
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
+      {
+         "name": "&Xplor HD",
+         "logo_uri": "  ",
+         "uri": "http://MaN@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/55228.m3u8.ts?hyppTV"
+      },
       {        
 		"name": "MTV HD",
 		"logo_uri": "https://upload.wikimedia.org/wikipedia/commons/c/cb/MTV_Music_2017.png",
@@ -507,8 +512,8 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
-        "name": "FOX",
-	"logo_uri": "https://i.pinimg.com/originals/d3/fd/5e/d3fd5e0ed6f5b7906fe0e528e6bb2660.png",
+        "name": "FOX HD",
+	"logo_uri": "https://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-Fox_HD-Ch724.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
