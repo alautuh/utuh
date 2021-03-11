@@ -409,21 +409,21 @@
          "samples": [
       {
         "name": "FOX MOVIES",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Movies.png",
+	       "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
         "name": "FOX ACTION MOVIES",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Action.png",
+	       "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/1358px-Fox_Action_logo.svg.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
         "name": "FOX FAMILY MOVIES",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Family.png",
+		     "logo_uri": "https://static.miraheze.org/ficreationwiki/b/b9/FOXfamily2016logo.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
