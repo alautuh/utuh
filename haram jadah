@@ -361,6 +361,21 @@
          "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
+         "name": "AOD",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/1724.m3u8.ts?MTO"
+      },
+      {
+         "name": "AEC",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/1723.m3u8.ts?MTO"
+      },
+      {
+         "name": "iQIYI HD",
+         "logo_uri": "https://logodix.com/logo/74403.png",
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/71038.m3u8.ts?MTO"
+      },
+      {
          "name": "Pinoy TV",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png",
          "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/50124.m3u8.ts?MTO"
