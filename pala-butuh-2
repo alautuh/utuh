@@ -623,6 +623,11 @@
              "uri": "http://MaN@e8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/3189.m3u8.ts?MANtv"
          },
          {
+             "name": "RTM SPORTS",
+             "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/0/02/RTM_HD_Sports.png",
+             "uri": " https://MaN@rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd?MANtv"
+         },
+         {
              "name": "ASTRO ARENA",
              "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
              "uri": "http://MaN@e8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/71102.m3u8.ts?MANtv"
