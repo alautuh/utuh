@@ -578,7 +578,7 @@
        },
        {
             "name": "FOX SPORTS 3 HD",
-	    "logo_uri": "https://www.cns.net.tw/web/upload/20141017170752LahemD8.png",
+	    "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",
             "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
             "drm_scheme": "widevine",
             "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
