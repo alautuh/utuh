@@ -580,6 +580,11 @@
          "uri": "http://MaN@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/3096.m3u8.ts?hypptv"
       },
       {
+           "name": "MNX HD",
+           "logo_uri": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000045360000/PORTRAIT/qELkgspp.png",
+           "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/55281.m3u8.ts?hyppTV"
+      },
+      {
            "name": "&FLIX HD",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
            "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/54975.m3u8.ts?hypptv"
