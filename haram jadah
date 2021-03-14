@@ -47,7 +47,7 @@
       {
         "name": "TV OKEY",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",
-        "uri":"https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8"
+        "uri":"https://MaN@rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd?MTO"
       },
       {
         "name": "DRAMA SANGAT",
@@ -1019,6 +1019,11 @@
              "name": "FISHING NETWORK",
              "logo_uri": "https://i.imgur.com/Dk3oPCs.png",
              "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/MarceloH/MtSeffG4Gf/30040.m3u8.ts?MTO"
+         },
+         {
+             "name": "RTM SPORTS",
+             "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/0/02/RTM_HD_Sports.png",
+             "uri": " https://MaN@rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd?MTO"
          },
          {
             "name": "ASTRO ARENA",
