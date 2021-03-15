@@ -405,14 +405,14 @@
          "uri": "http://Man@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/30442.m3u8.ts?freenetTV"
     },
     {
-        "name": "CINEMAX(us)",
-        "logo_uri": "https://hd-report.com/wp-content/uploads/2012/08/Cinemax-2011-logo.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/64347.m3u8.ts"
+        "name": "HALLMARK-MOVIES",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png",
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/3124.m3u8.ts?freenetTV"
     },
     {
         "name": "SHOWTIME",
         "logo_uri": "https://www.bellmedia.ca/wp-content/uploads/2019/01/showtime-logo-black-01.png",
-         "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/3099.m3u8.ts"
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/58779.m3u8.ts?freenetTV"
      },
      {
            "name": "DISNEY+ HD",
@@ -420,14 +420,14 @@
            "uri": "http://MaN@meu02.cularu.com:8880/live/GeorgeNikolic/Djordje1935/60230.m3u8.ts?freenetTV"
      },
      {
-          "name": "Epix Hits",
+          "name": "EPIX",
           "logo_uri": "https://sc.dish.com/shared/images/station-logos/EPIXH.png",
-          "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59224.m3u8.ts"
+          "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/59225.m3u8.ts?freenetTV"
     },
     {
          "name": "STARZ ACTION(US)",
           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",
-          "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/29464.m3u8.ts"
+          "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/29464.m3u8.ts?freenetTV"
     },
     {
         "name": "FOX MOVIES",
@@ -506,9 +506,9 @@
           "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/MarceloH/MtSeffG4Gf/30410.m3u8.ts?freenetTV"
      },
      {
-         "name": "SYFY",
+         "name": "SYFY(us)",
          "logo_uri": "https://fastly.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png",
-         "uri": "http://MaN@ed8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/3096.m3u8.ts?freenetTV"
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/3096.m3u8.ts?freenetTV"
        },
        {
          "name": "X ACTION HD",
