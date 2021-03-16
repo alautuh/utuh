@@ -52,7 +52,7 @@
       {
         "name": "TV OKEY",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",
-        "uri":"https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8"
+        "uri": "https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
       },
       {
         "name": "DRAMA SANGAT",
