@@ -288,6 +288,11 @@
          "uri": "http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0"
       },
       {
+         "name": "KPlus",
+         "logo_uri": "https://www.useetv.com/pimages/tvposter/k+.png",
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/71111.m3u8.ts?freenetTV"
+      },
+      {
         "name": "SONY ONE",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd",
