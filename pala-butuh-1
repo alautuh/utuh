@@ -344,9 +344,9 @@
       {
         "name": "VASANTHAM",
         "logo_uri": "https://www.mastermaths.com.sg/wp-content/uploads/2019/05/Vasantham-Logo.jpg",
-        "uri": "https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd",
+        "uri": "https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/a.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDEwNyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=kW0wEsrEe7pTVkx1lThO0W7iINQ%3D&"
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZKdjRrSy1iZDFieDVkbVp3bmNqNkRyNEpiNUpySGd0aHF6X1UzeHR2ck8wOUdnWjJwaTQ5RTVyWmdQU0VBWTVnbTNYXzF2RXoxaVpaam5iTEdXSDZ5NFdudG12R0pFaUU3S1ZEaTRFLW5OMVB5OTVpSW10anduWDZwWlZWTFhJRmtDWHl4by05M0phNGIxOUhIbXJJR3FTMEZBYmM5M0E4STZkMkxJRVI2eUxaRVZ3cVRCLVZTcm10MlFGVlVsNlU0QmVfMTR1YVlYUzN3YTJwcHNqV2lKSDlxdHZqUHVUOGJWTXNQM1dzd043cEE3OVJGU2ctcng5NkdlMXhyLUIzdVd6dXFpYVRFR296aXZfTEQwSzJ6NzJVV0ZGQ0JpWF9nSl95YTVOd2ZZd2dpODBKdHZSVHRfMEt6T1RSUkkzb0E9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkp2NGtLLWJkMWJ4NWRtWnduY2o2RHI0SmI1SnJIZ3RocXpfVTN4dHZyTzA5R2daMnBpNDlFNXJaZ1BTRUFZNWdtM1hfMXZFejFpWlpqbmJMR1dINnk0V250bXZHSkVpRTdLVkRpNEUtbk4xUHk5NWlJbXRqd25YNnBaVlZMWElGa0NYeXhvLTkzSmE0YjE5SEhtcklHcVMwRkFiYzkzQThJNmQyTElFUjZ5TFpFVndxVEItVlNybXQyUUZWVWw2VTRCZV8xNHVhWVhTM3dhMnBwc2pXaUpIOXF0dmpQdVQ4YlZNc1AzV3N3TjdwQTc5UkZTZy1yeDk2R2UxeHItQjN1V3p1cWlhVEVHb3ppdl9MRDBLMno3MlVXRkZDQmlYX2dKX3lhNU53Zll3Z2k4MEp0dlJUdF8wS3pPVFJSSTNvQT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=wYup%2fTXgqNtO%2bOEPW%2brMm8oHSgM%3d"
        }
     ]
        },
