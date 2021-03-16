@@ -1,4 +1,9 @@
-           CH5-97098
+[
+  {
+          "name": "TV MALAYSIA",
+          "samples": [
+
+          CH5-97098
   {
            "channels": 2,
            "deliveryType": "Stream",
