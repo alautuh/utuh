@@ -24,6 +24,11 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
+        "name": "TV6",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/6/69/TV6Logo2021.png",
+        "uri": "https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+      },
+      {
         "name": "NTV7",
         "logo_uri": "https://3.bp.blogspot.com/-1DW5y-AHr2Q/XZFXnbUU6hI/AAAAAAAAooM/nduplDyo_MYGuYNdGwpIdB0Y5SZHOcteQCLcBGAsYHQ/s1600/ntv7-malaysia-channel-logo.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
