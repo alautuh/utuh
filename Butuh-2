@@ -681,7 +681,22 @@
              "name": "EUROSPORTS 2",
              "logo_uri": "https://i.imgur.com/syYVNay.png?1",
               "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/MarceloH/MtSeffG4Gf/28947.m3u8.ts?freenetTV"
-            }
-          ]
-        }
-      ] 
+            },
+{
+              "name": "BT SPORTS 1",
+              "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png",
+              "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/2943.m3u8.ts?freenetTV"
+           },
+           {
+               "name": "BT SPORTS 2",
+               "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png",
+               "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/2942.m3u8.ts?freenetTV"
+           },
+           {
+               "name": "BT SPORTS 3",
+               "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BTSPORT_3_BLACK_RGB.png/800px-BTSPORT_3_BLACK_RGB.png",
+               "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/2941.m3u8.ts?freenetTV"
+           }
+         ]
+       }
+     ] 
