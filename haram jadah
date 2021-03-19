@@ -489,6 +489,11 @@
            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/55281.m3u8.ts?MTO"
       },
       {
+           "name": "SONY PIX HD",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/bn/6/6c/%E0%A6%B8%E0%A6%A8%E0%A6%BF_%E0%A6%AA%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8_%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",
+           "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/1933.m3u8.ts?MTO"
+      },
+      {
            "name": "&Flix HD",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
            "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/54975.m3u8.ts?MTO"
