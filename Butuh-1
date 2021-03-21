@@ -496,9 +496,9 @@
             "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/55281.m3u8.ts?freenetTV"
        },
        {
-          "name": "TRING FANTASY",
-          "logo_uri": "http://www.albepg.com/tvlogi/Tring%20Fantasy.png",
-          "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/30561.m3u8.ts?freenetTV"
+          "name": "TRING SUPER HD",
+          "logo_uri": "https://lh5.googleusercontent.com/-8f5Nr-lcFfY/UmA72Lc9e3I/AAAAAAAAAuQ/lAoqD1TYlGE/w637-h365-no/tring-super.png",
+          "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/30279.m3u8.ts?freenetTV"
       },
       {
           "name": "AKSION HD",
@@ -506,9 +506,9 @@
           "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/30329.m3u8.ts?freenetTV"
      },
      {
-          "name": "X TRILLER HD",
-	  "logo_uri": "http://www.albepg.com/tvlogi/Film%20Thriller.png",
-          "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/MarceloH/MtSeffG4Gf/30410.m3u8.ts?freenetTV"
+          "name": "X Premium2 HD",
+	  "logo_uri": "https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/kinopremiere2.png",
+          "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/30419.m3u8.ts?freenetTV"
      },
      {
          "name": "SYFY(us)",
