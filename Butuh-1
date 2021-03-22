@@ -496,9 +496,9 @@
             "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/55281.m3u8.ts?freenetTV"
        },
        {
-          "name": "TRING SUPER HD",
-          "logo_uri": "https://lh5.googleusercontent.com/-8f5Nr-lcFfY/UmA72Lc9e3I/AAAAAAAAAuQ/lAoqD1TYlGE/w637-h365-no/tring-super.png",
-          "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/30279.m3u8.ts?freenetTV"
+          "name": "MBC ACTION HD",
+          "logo_uri": "https://stream4television.files.wordpress.com/2013/07/fe21f-mbc_action_hd.png",
+          "uri": "https://MaN@shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?freenetTV"
       },
       {
           "name": "HITS HD",
