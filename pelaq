@@ -1,0 +1,1074 @@
+[
+  {
+    "name": "ANEKA TV HIBURAN",
+    "samples": [
+      {
+        "name": "TV1",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "TV2",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "TV3",
+        "logo_uri": "https://www.pngkit.com/png/full/940-9401637_logo-of-tv3-tv3-logo.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "TV6",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/6/69/TV6Logo2021.png",
+        "uri": "https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+      },
+      {
+        "name": "NTV7",
+        "logo_uri": "https://3.bp.blogspot.com/-1DW5y-AHr2Q/XZFXnbUU6hI/AAAAAAAAooM/nduplDyo_MYGuYNdGwpIdB0Y5SZHOcteQCLcBGAsYHQ/s1600/ntv7-malaysia-channel-logo.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "8TV",
+        "logo_uri": "https://seeklogo.com/images/1/8TV-logo-90A8C38436-seeklogo.com.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "TV9",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_of_TV9_(Malaysia).svg/919px-Logo_of_TV9_(Malaysia).svg.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "TV OKEY",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",
+        "uri": "https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
+      },
+      {
+        "name": "DRAMA SANGAT",
+        "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/c/ce/Jap.png",
+        "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/71117.m3u8.ts?MANtv"
+      },
+      {
+        "name": "SURIA",
+        "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/7/78/Suria.png",
+        "uri": "https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/a.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNdEQ1cllzdHIzbXpGWmxWVGwwQmQ4VGVrSTFaRkxWd05VUlNqdTJjUThZVWVLWEVYcEdaYWxld2ZzVVhTbUdHWVcxdzQtY1ZSQmgzSE1uV2htdDdqdE5qd3RRYmYwLUpxNk1LM3VSTjZlSFYwejk0TnlKeXMwdF9iZFZ5eURLd2RNLVgtTDFpajBzV0k4R0RHcWZOV0RRaXAzbXk1RUdta0s0dGp0OTlTN29NSkJ5NXk4cXVfQVlHbnhTTll0aHZweHVKUXJhci14SEdidERhQ0RSblBNMXdfWGpReVVZQXFaelc5SWx3WUxsZVVyTF9LcmUzLS1OZmotdDQ4ZVd6VElqNXhOOFRGb215ZGhNcURqS3UwLVN1TmYwbmMxWmFaV1ZNbTAtRlZvU2o2R05wdmluYllMb1R4aUdPanFGSWt5V0pnTTJlTG4zVFU2X2JiSzJVMFE9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZNdEQ1cllzdHIzbXpGWmxWVGwwQmQ4VGVrSTFaRkxWd05VUlNqdTJjUThZVWVLWEVYcEdaYWxld2ZzVVhTbUdHWVcxdzQtY1ZSQmgzSE1uV2htdDdqdE5qd3RRYmYwLUpxNk1LM3VSTjZlSFYwejk0TnlKeXMwdF9iZFZ5eURLd2RNLVgtTDFpajBzV0k4R0RHcWZOV0RRaXAzbXk1RUdta0s0dGp0OTlTN29NSkJ5NXk4cXVfQVlHbnhTTll0aHZweHVKUXJhci14SEdidERhQ0RSblBNMXdfWGpReVVZQXFaelc5SWx3WUxsZVVyTF9LcmUzLS1OZmotdDQ4ZVd6VElqNXhOOFRGb215ZGhNcURqS3UwLVN1TmYwbmMxWmFaV1ZNbTAtRlZvU2o2R05wdmluYllMb1R4aUdPanFGSWt5V0pnTTJlTG4zVFU2X2JiSzJVMFE9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=UT8tksR8tPiiVMtQmDU9XVJQZ%2bE%3d"
+      },
+      {
+        "name": "SALAM HD",
+         "logo_uri": "https://www.unifi-tm.com.my/wp-content/uploads/2018/04/salam.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "TV ALHIJRAH",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "HYPP SENSASI HD",
+        "logo_uri": "https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/Hypp-sensasi.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "HYPP INSPIRASI HD",
+        "logo_uri": "https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/hypp-inspirasi.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "DUNIA SINEMA HD",
+        "logo_uri": "https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/dunia-sinema.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "PESONA HD",
+         "logo_uri": "https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/pesona.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "Al-Quran Al-Kareem",
+        "logo_uri": "https://images-na.ssl-images-amazon.com/images/I/81qZcdIs-KL.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "MNC-Muslim",
+        "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/c/c9/MNC_Muslim1.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      }
+    ]
+      },
+      {
+         "name": "ASTRO",
+         "samples": [
+      {
+        "name": "ASTRO NAURA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/71023.m3u8.ts?MTO"
+      },
+      {
+        "name": "ASTRO HELLO",
+        "logo_uri": "https://liveatpc.com/wp-content/uploads/2018/08/Astro-HEllo.jpg",
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/71088.m3u8.ts?MTO"
+      },
+      {
+          "name": "ASTRO CERIA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/71080.m3u8.ts?MTO"
+      },
+      {
+        "name": "ASTRO OASIS",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/71021.m3u8.ts?MTO"
+      },
+      {
+        "name": "ASTRO WARNA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/71022.m3u8.ts?MTO"
+      },
+      {
+        "name": "ASTRO RIA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
+        "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/1705.m3u8.ts?MTO"
+      },
+      {
+        "name": "ASTRO CITRA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/71146.m3u8.ts?MTO"
+      },
+      {
+        "name": "ASTRO PRIMA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
+        "uri": "http://MaN@live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8"
+      },
+      {
+        "name": "ASTRO RANIA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/71144.m3u8.ts?MTO"
+      },
+      {
+        "name": "ASTRO AURA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/71145.m3u8.ts?MTO"
+      },
+      {
+        "name": "BOLLYONE HD",
+        "logo_uri": "https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png",
+        "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/71037.m3u8.ts?MTO"
+      },
+      {
+        "name": "ASTRO BOO HD",
+        "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
+        "uri": "http://MaN@139.99.61.223/boo.m3u8?MTO"
+      }
+    ]
+      },
+      {
+         "name": "HINDI/TAMIL",
+         "samples": [
+      {
+        "name": "YUPP THIRAI HD",
+		     "logo_uri": "https://raw.githubusercontent.com/angahjee1994/logo/master/yuppthirai.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "POLIMER",
+		     "logo_uri": "https://upload.wikimedia.org/wikipedia/en/3/3f/Polimer-TV-Logo.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "JAYA MAX",
+		     "logo_uri": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/jaya-max-black.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "SONY MAX",
+		"logo_uri": "https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+         "name": "COLORS CINEPLEX",
+		      "logo_uri": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000041660000/PORTRAIT/ntnToCGg.png",
+         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+         "name": "COLORS CINEPLEX HD",
+         "logo_uri": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png",
+         "uri": "https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09IiwidWRpZCI6IjhmY2JjNzQ0OTFkODdiOTEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3D&signature=kDDuaRYMluIZgvBF%2BOaY3z97df0%3D"
+      },
+      {
+        "name": "AndTV",
+        "logo_uri": "https://static.epg.best/in/AndTV.in.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "ZEE CINEMA",
+	       "logo_uri": "https://static.epg.best/sa/ZeeCinemaEn.sa.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "ZEE TV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "ZING",
+        "logo_uri": "https://static.epg.best/in/Zing.in.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "COLORS",
+	       "logo_uri": "https://static.epg.best/in/Colors.in.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "COLORS TAMIL HD",
+		     "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "COLORS HD",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",
+        "uri": "https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMejNqNVRnbUdkSXk4Qkx6aDJsc09pNDNqcWVXNmN6NzcxZlppazZQbjIzWEwyU2VsOHBJU1dZeXZSeTdpWThUWnpxRWtzR1hoVWYxRkFjSGRBSEdSbU1NU3dwUVI5czNuUi1zMnV4bVRDZGktejBsWmJQWGNGRDJNMFZDSmkxcjhjRUdtRkljRGp5UnZVUFZMUWgtZUxZcjZ3THdzZ1RXdHdLRWVSOG1NS1gzN3dFblRuVGVRbEpqVUFpYU54UWZWV3lzUzNBQ2xIVklkNkQtN014RTEtTnNtcExtVS0wdk1XblBVLVlaMkxTVGs2ZUFrZUVCQUhoOGJsQjVWTzlkNUVfWGpkSjFIZ043U3VraHVTX2JBNjdTOUVIQnZmaURFamZLek53aGVkQTdfb0loZUN2QUctd2NJWGF5RWV3U3YwdXBnNFA5b1d0cFI1R2lkSlVMNkxYdXNOZDIwZXo1YzZfdUtuTUFHV1pmbTlpSlNldndmTzM4YW9XcExwR0gyZ1N5WEN1Y05qSEcxZjdWRXd2RzgwPSZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzIiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzaGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkx6M2o1VGdtR2RJeThCTHpoMmxzT2k0M2pxZVc2Y3o3NzFmWmlrNlBuMjNYTDJTZWw4cElTV1l5dlJ5N2lZOFRaenFFa3NHWGhVZjFGQWNIZEFIR1JtTU1Td3BRUjlzM25SLXMydXhtVENkaS16MGxaYlBYY0ZEMk0wVkNKaTFyOGNFR21GSWNEanlSdlVQVkxRaC1lTFlyNndMd3NnVFd0d0tFZVI4bU1LWDM3d0VuVG5UZVFsSmpVQWlhTnhRZlZXeXNTM0FDbEhWSWQ2RC03TXhFMS1Oc21wTG1VLTB2TVduUFUtWVoyTFNUazZlQWtlRUJBSGg4YmxCNVZPOWQ1RV9YamRKMUhnTjdTdWtodVNfYkE2N1M5RUhCdmZpREVqZkt6TndoZWRBN19vSWhlQ3ZBRy13Y0lYYXlFZXdTdjB1cGc0UDlvV3RwUjVHaWRKVUw2TFh1c05kMjBlejVjNl91S25NQUdXWmZtOWlKU2V2d2ZPMzhhb1dwTHBHSDJnU3lYQ3VjTmpIRzFmN1ZFd3ZHODA9IiwidWRpZCI6IkhyVElZU1JvTUVXd1JTYWZuN05JT1lzeW41czIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=X6dMe6m%2f2rzh7AYSDlBGNp%2fp%2f3o%3d"
+      },
+      {
+        "name": "SONY SAB",
+	 "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/c/c5/Sab_TV.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {        
+		      "name": "SONY SET",
+		       "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/5/57/SET_India_2016.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {        
+		       "name": "MTV HD",
+		      "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/c/cb/MTV_Music_2017.png",
+         "uri": "https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZoZExpdmVfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkxZRkN2aER4LUt5TzJMSlRGRVptQjZEdzF0a2szLXdYTUhDbkEyTm51dTNOd092c2VCb1VsY08tRXVia3pGSnYzR2dmU2hWaVpHMXpUWEs4c180QThkbVBkMGQ4VzhtVzEtRmhWb0trMWZENWVwajhETGo5YWNhRVVwYUNOTl9IazJtVVMwU0RRdTRTemtFaDM4eElEWHpENXQ4MTZtcFp2WnpPVjdnNThsV0xiOGJGQ2RBeE1TOXN3Z04xSnlnVVZVNDgyNV96R3FYdjdxZ0tlYmVJZHdvQUw3TWpSRG5JWWdDTkdsRmg4RThLSnBBSGhmQlZqaEdRN0FNc2RyNVlBPT0iLCJ1ZGlkIjoiOGZjYmM3NDQ5MWQ4N2I5MSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3D%3D&signature=woN6w5C3RnowAIFR%2B7R3G8oSKz0%3D"
+      }
+    ]
+      },
+      {
+          "name": "KOREA/JAPAN/CHINA/PHILIPPIN",
+          "samples": [
+       {
+          "name": "TVN MOVIES HD",
+		       "logo_uri": "http://s1044.photobucket.com/albums/b447/Amachongz/435_300_zpswahk30ci.png",
+          "uri": "http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd",
+          "drm_scheme": "widevine",
+          "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+         "name": "TVN HD",
+		      "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",
+          "uri": "http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd",
+          "drm_scheme": "widevine",
+          "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+       },
+       {
+          "name": "Celestial Movie",
+          "logo_uri": "https://i.imgur.com/KcCWHbk.png",
+          "uri": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd",
+          "drm_scheme": "widevine",
+          "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+         "name": "CELESTIAL CLASSIC MOVIES",
+         "logo_uri": "https://i.imgur.com/KcCWHbk.png",
+         "uri": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+         "name": "STAR CHINESE MOVIES HD",
+		      "logo_uri": "https://i.dlpng.com/static/png/359808_preview.png",
+         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+         "name": "STAR CHINESE LEGEND HD",
+		      "logo_uri": "https://www.nowtv.now.com/media/logo/140-wbg-e.png",
+         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "KIX",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+          "name": "SETI",
+          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/d/d9/LOGO_SETI.png",
+         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+         "name": "STAR CHINESE CHANNEL HD",
+         "logo_uri": "https://i.pinimg.com/originals/b5/1d/a8/b51da8c77756b176cc3dee99d86205fa.png",
+         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+         "name": "NOW JELLI HD",
+         "logo_uri": "https://www.nowtv.now.com/media/logo/108-wbg-e.png",
+         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+         "name": "AOD",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/1724.m3u8.ts?MTO"
+      },
+      {
+         "name": "AEC",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png",
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/1723.m3u8.ts?MTO"
+      },
+      {
+         "name": "iQIYI HD",
+         "logo_uri": "https://logodix.com/logo/74403.png",
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/71038.m3u8.ts?MTO"
+      },
+      {
+         "name": "Pinoy TV",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png",
+         "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/50124.m3u8.ts?MTO"
+      },
+      {
+         "name": "CINEMA ONE",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png",
+         "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/50119.m3u8.ts?MTO"
+      },
+      {
+         "name": "SonyOne",
+         "logo_uri": "https://pbs.twimg.com/profile_images/1240080611965980672/5g011pTT_400x400.jpg",
+         "uri": "https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+         "name": "ZQ DRAMA",
+         "logo_uri": "https://apkplz.net/storage/images/com/zqtv/live/com.zqtv.live_1.png",
+         "uri": "http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0"
+      },
+      {
+           "name": "SAMURAI MOVIES",
+           "logo_uri": "https://www.kindpng.com/picc/m/15-153899_clip-art-samurai-logo-png-transparent-png.png",
+           "uri": "https://cdn6.goprimetime.info/feed/LC2/index.m3u8"
+      },
+      {
+         "name": "Oh!K HD",
+         "logo_uri": "https://www.ohk-tv.com/img/logo.png",
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/71054.m3u8.ts?MTO"
+      },
+      {
+          "name": "RED BY HBO",
+          "logo_uri": "https://i.ibb.co/swQNcWz/REDBHBOIDD-S1.png",
+          "uri": "http://fdtvapps.xyz/channel/red.m3u8"
+      }
+    ]
+      },
+      {
+         "name": "MOVIES/DRAMA",
+         "samples": [
+     {
+        "name": "HBO Signature",
+        "logo_uri": "https://static.epg.best/us/HBOSignature.us.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "HBO",
+        "logo_uri": "https://i0.wp.com/reel360.com/wp-content/uploads/2020/05/HBO_logo_blue.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "HBO Family",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "HBO Hits",
+        "logo_uri": "https://static.epg.best/id/HBOHits.id.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "CinemaxHD",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "FOX MOVIES",
+	       "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "FOX ACTION MOVIES",
+	       "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/1358px-Fox_Action_logo.svg.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "FOX FAMILY MOVIES",
+		     "logo_uri": "https://static.miraheze.org/ficreationwiki/b/b9/FOXfamily2016logo.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+           "name": "DISNEY+ HD",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png",
+           "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/60230.m3u8.ts?MTO"
+      },
+      {
+           "name": "MNX HD",
+           "logo_uri": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000045360000/PORTRAIT/qELkgspp.png",
+           "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/55281.m3u8.ts?MTO"
+      },
+      {
+           "name": "SONY PIX HD",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/bn/6/6c/%E0%A6%B8%E0%A6%A8%E0%A6%BF_%E0%A6%AA%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8_%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",
+           "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/1933.m3u8.ts?MTO"
+      },
+      {
+           "name": "&Flix HD",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
+           "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/54975.m3u8.ts?MTO"
+      },
+      {
+           "name": "Starz Encore Action",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",
+           "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/29464.m3u8.ts?MANtv"
+      },
+      {
+           "name": "SYFY",
+           "logo_uri": "https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/syfy_c.png",
+           "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/3096.m3u8.ts?MTO"
+      },
+      {
+           "name": "STAR ACTION",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
+           "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59541.m3u8.ts?TMO"
+      },
+      {
+           "name": "STAR HITS",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
+           "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59538.m3u8.ts?MTO"
+      },
+      {
+           "name": "Sky Cinema Premiere",
+           "logo_uri": "https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/07/Sky_Cinema_Premiere_PRIMARY_RGB.png",
+           "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/28956.m3u8.ts?MTO"
+      },
+      {
+        "name": "Hits Movies",
+        "logo_uri": "https://www.hitstv.com/assets/logo-HITSMOVIES.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "PARAMOUNT CHANNEL HD",
+	       "logo_uri": "https://static.wikia.nocookie.net/tvfanon6528/images/0/05/Paramount_Channel_%282014-.n.v.%29.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "CINEMA WORLD HD",
+	      "logo_uri": "https://img2.pngio.com/home-cinemaworld-world-cinema-png-3508_1128.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "WARNER TV HD",
+	       "logo_uri": "https://www.nicepng.com/png/full/632-6324794_warner-bros-family-entertainment-logo-png.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "FOX",
+	       "logo_uri": "https://i.pinimg.com/originals/d3/fd/5e/d3fd5e0ed6f5b7906fe0e528e6bb2660.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "FoxCrime",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/1280px-Fox_Crime_logo.svg.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "FX HD",
+        "logo_uri": "https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png", 
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "FOX LIFE",
+	       "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/8/82/FOXlife3DLA.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "Thrill",
+        "logo_uri": "https://i.imgur.com/cPneq0f.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "AXN",
+        "logo_uri": "https://static.epg.best/kr/AXN.kr.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "BLUE ANT ENTERTAINMENT HD",
+	       "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "BLUE ANT EXTREME",
+	       "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+         "name": "COLORS INFINITY HD",
+         "logo_uri": "https://www.sundirect.in/Content/Uploads/Blocks/636928235106186263_colors-infinity-hd.png",
+         "uri": "https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFeGdqT2ZiRzd1V21BNm1CZ2JzRnpQSWpOeDhXSG5Md2xIN1k3WkRNa0doendfeDZCdEdqQlk2emJGV0ZBUFdQakYxNHk4ZWZyZGlzanJseklaQjhHR1FyWkFxZGU0WnZqRUxQeXJPS19uTHE0bnRWZGhzc3RfWHVnSWcxaHhHWWMtSk14Q0FLTnRWeUw3bW9iM1JTVzhFQmJhY1VCVzJkTGxsNERrSk1OTDFaYkl3blRNVk16WUxETFBNc25pUHdEN1ZiTHRsZXVZYkhOUnR5ZnQ3M1BDTk56cXk2VzdMVGRKMnFUZnhRUlFYWmU1SEl6S0t0SjM0cXFmWkY5LUFYZmFDZnIybVhxUnZNQ0VJTnhFbk1zRkF3RWlLc3VMNWxhNEZPR3RVdzBhR1k1M190NzFkMXVSYjY0VHJkeFBmakV1VTk5OV9Lc3MwN00xajZfZ1RDSlU9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTA3NDk1MjAiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzaW5maW5pdHlfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkV4Z2pPZmJHN3VXbUE2bUJnYnNGelBJak54OFdIbkx3bEg3WTdaRE1rR2h6d194NkJ0R2pCWTZ6YkZXRkFQV1BqRjE0eThlZnJkaXNqcmx6SVpCOEdHUXJaQXFkZTRadmpFTFB5ck9LX25McTRudFZkaHNzdF9YdWdJZzFoeEdZYy1KTXhDQUtOdFZ5TDdtb2IzUlNXOEVCYmFjVUJXMmRMbGw0RGtKTU5MMVpiSXduVE1WTXpZTERMUE1zbmlQd0Q3VmJMdGxldVliSE5SdHlmdDczUENOTnpxeTZXN0xUZEoycVRmeFFSUVhaZTVISXpLS3RKMzRxcWZaRjktQVhmYUNmcjJtWHFSdk1DRUlOeEVuTXNGQXdFaUtzdUw1bGE0Rk9HdFV3MGFHWTUzX3Q3MWQxdVJiNjRUcmR4UGZqRXVVOTk5X0tzczA3TTFqNl9nVENKVT0iLCJ1ZGlkIjoiSHJUSVlTUm9NRVd3UlNhZm43TklPWXN5bjVzMiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=gBhqX3aeUEQMeuW8%2fXEvI98VFf8%3d"
+      }
+    ]
+      },
+      {
+          "name": " DOKUMENTARI",
+          "samples": [
+      {
+        "name": "BBC EARTH HD",
+		"logo_uri": "https://www.overv.eu/wp-content/uploads/2017/11/bbc.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "LOVE NATURE",
+		"logo_uri": "https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-large.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+	  {
+        "name": "NATTIONAL GEOGRAPHIC",
+		"logo_uri": "https://avpn.asia/wp-content/uploads/2016/03/National-Geographic-logo-1024x768.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "NAT GEO WILD",
+		"logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "NAT GEO PEOPLE HD",
+		"logo_uri": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nat_Geo_People_HD.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "BBC LIFESTYLE HD",
+		"logo_uri": "https://vrchennai.com/UploadFile/Storeimage/Lifestyle-big.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "Animal Planet",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "TRAVEL CHANNEL HD",
+		"logo_uri": "https://seeklogo.com/images/T/Travel_Channel-logo-18E372584A-seeklogo.com.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "History",
+        "logo_uri": "https://static.epg.best/mx/HistoryChannel.mx.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "DISCOVERY CHANNEL",
+        "logo_uri": "https://i.imgur.com/ESeGnT2.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "CRIME INVESTIGATION",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/400px-C%26I_logo.svg.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },      
+      {
+        "name": "ASIAN FOOD NETWORK",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "HGTV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "TLC",
+        "logo_uri": "https://i.imgur.com/iXwGMoe.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "LUXE.TV HD",
+		"logo_uri": "https://i2.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/Luxe-TV.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "MTV ASIA HD",
+		"logo_uri": "https://seeklogo.com/images/M/mtv-music-television-logo-B016199701-seeklogo.com.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      }
+	]
+  },
+  {
+    "name": "KIDS",
+    "samples": [
+      {
+        "name": "DREAMWORK HD",
+		"logo_uri": "https://www.pngkit.com/png/full/289-2898725_dreamwork-logo-without-the-moon-and-the-rot.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "Animax",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/8/85/Animax_old_logo.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "ANIPLUS",
+        "logo_uri": "https://i.imgur.com/y1LQk44.png",
+        "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/71110.m3u8.ts?MANtv"
+      },
+      {
+        "name": "NICK JR.",
+		"logo_uri": "https://www.cableman.ru/sites/default/files/nick_jr..png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "CBEEBIES HD",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/6/6f/CBeebies.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {           
+		"name": "NICKELODEON",
+		"logo_uri": "https://www.freepnglogos.com/uploads/nickelodeon-schweiz-logo-png-14.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "BOOMERANG HD",
+		"logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "BABY TV",
+		"logo_uri": "https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "DISNEY JUNIOR",
+        "logo_uri": "https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "DISNEY CHANNEL",
+        "logo_uri": "https://static.epg.best/es/DisneyChannel.es.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "KIDS TV",
+        "logo_uri": "https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "CARTOON NETWORK",
+        "logo_uri": "https://i.imgur.com/M9Z5cfD.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "MIAO MI",
+        "logo_uri": "http://miaomi-tv.com/Public/images/miao-mi-logo-color.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      }
+    ]
+      },
+      {
+          "name": "NEWS",
+          "samples": [
+     {
+        "name": "BBC WORLD NEWS HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-world-news.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "ALJAZEERA HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/al-jazeera.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227623/3221227623.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "SKY NEWS",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/skynews.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227718/3221227718.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "CHANNEL NEWS ASIA",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/channel-news-asia.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "EURONEWS",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/euronews.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "BERNAMA",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bernama-news-channel.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227511/3221227511.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "PARLIMEN",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/parlimen-malaysia.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227546/3221227546.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "ABC AUSTRALIA",
+		"logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/400px-ABC_Australia_logo.svg.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "DW",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/DW.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "NHK WORLD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nhk-world-tv.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227626/3221227626.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      }
+    ]
+      },
+      {
+          "name": "SPORTS",
+          "samples": [
+     {
+        "name": "UNIFI SPORTS1",
+	"logo_uri": "https://ejenwifi.com/wp-content/uploads/2021/01/unifi-sports-1.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "UNIFI SPORTS2",
+	"logo_uri": "https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/unifi-sports-2.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "UNIFI SPORTS3",
+	"logo_uri": "https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/unifi-sports-3.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "UNIFI SPORTS4",
+	"logo_uri": "https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/unifi-sports-4.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "UNIFI SPORTS5",
+	"logo_uri": "https://internetfibre-broadband.com.my/wp-content/uploads/2020/11/unifi-sports-5.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "FOX SPORTS HD",
+		"logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "FOX SPORTS 2 HD",
+		"logo_uri": "https://i.pinimg.com/originals/a9/f8/79/a9f8791a6c4108b6907e03a1711e12d4.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "FOX SPORTS 3 HD",
+		"logo_uri": "https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+      },
+      {
+        "name": "BEIN SPORTS 1",
+        "logo_uri": "https://s4.postimg.cc/m171drj19/bein-sports-400.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "BEIN SPORTS 2",
+        "logo_uri": "https://s4.postimg.cc/m171drj19/bein-sports-400.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+            "name": "START SPORTS SELECT 1",
+            "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/55340.m3u8.ts?MTO"
+        },
+        {
+            "name": "STAR SPORTS SELECT 2",
+            "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/55338.m3u8.ts?MTO"
+        },
+        {
+          "name": "ASTRO SUPERSPORTS 1",
+          "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
+          "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59220.m3u8.ts?MTO"
+       },
+       {
+            "name": "ASTRO SUPERSPORTS 2",
+            "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59219.m3u8.ts?MTO"
+        },
+        {
+            "name": "ASTRO SUPERSPORTS 3",
+            "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59218.m3u8.ts?MTO"
+        },
+        {
+            "name": "ASTRO SUPERSPORTS 4",
+            "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/59217.m3u8.ts?MTO"
+        },
+        {
+             "name": "SPORT TV 1 HD",
+             "logo_uri": "https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png",
+             "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/3192.m3u8.ts?MTO"
+         },
+         {
+             "name": "SPORT TV 2 HD",
+             "logo_uri": "https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png",
+             "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/3191.m3u8.ts"
+         },
+         {
+             "name": "SPORT TV 3 HD",
+             "logo_uri": "https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png",
+             "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/3190.m3u8.ts?MTO"
+         },
+         {
+              "name": "BT SPORTS 1",
+              "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png",
+              "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/2943.m3u8.ts?MTO"
+         },
+         {
+            "name": "BT SPORTS 2",
+            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png",
+            "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/2942.m3u8.ts?MTO"
+         },
+         {
+            "name": "BT SPORTS 3",
+            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BTSPORT_3_BLACK_RGB.png/800px-BTSPORT_3_BLACK_RGB.png",
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/2941.m3u8.ts?MTO"
+         },
+         {
+             "name": "EUROSPORT",
+             "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",
+             "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/71106.m3u8.ts?MTO"
+         },
+         {
+             "name": "FISHING NETWORK",
+             "logo_uri": "https://i.imgur.com/Dk3oPCs.png",
+             "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/MarceloH/MtSeffG4Gf/30040.m3u8.ts?MTO"
+         },
+         {
+             "name": "RTM SPORTS",
+             "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/0/02/RTM_HD_Sports.png",
+             "uri": "https://MaN@rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd?MTO"
+         },
+         {
+            "name": "ASTRO ARENA",
+            "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
+            "uri": "http://MaN@152.89.62.105:8880/live/kg14m2n1059/13725777/71102.m3u8.ts?MTO"
+        }
+      ]
+    }	
+  ]    
