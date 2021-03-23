@@ -328,21 +328,21 @@
       },
       {
         "name": "RTV",
-        "logo_uri": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/06/20/2292954680.jpg",
+        "logo_uri": "http://www.rtv.co.id/images/rtv/newlogo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "ANTV",
-         "logo_uri": "https://assets.pikiran-rakyat.com/crop/72x83:668x364/750x500/photo/2020/06/20/1937037054.jpg",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "NetTV HD",
-        "logo_uri": "https://www.biznethome.net/bin/images/tv-program/channel/NETtv.jpg",
+        "logo_uri": "https://assets-a1.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
@@ -356,35 +356,21 @@
       },
       {
         "name": "TVRI",
-        "logo_uri": "https://promoinvestasiproperty.com/wp-content/uploads/2020/03/800px-New_Logo_TVRI-300x177.png",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/TVRI/sa_dash_vmx/TVRI.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
-        "name": "MUSLIM TV",
-         "logo_uri": "https://www.lyngsat.com/logo/tv/mm/muslim-tv-id.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
-      },
-      {
-        "name": "ALQURAN ALKAREEM",
-         "logo_uri": "https://www.lyngsat.com/logo/tv/qq/quran-tv-sa.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
-      },
-      {
-        "name": "VISIONPRIME",
-         "logo_uri": "https://www.lyngsat.com/logo/tv/vv/vision-prime-id.png",
+        "name": "VISION PRIME",
+         "logo_uri": "https://id.m.wikipedia.org/wiki/Berkas:Vision_Prime_2020.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "OK TV",
-         "logo_uri": "https://www.lyngsat.com/logo/tv/oo/ok-tv-id.png",
+         "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/c/c5/Rbc2003.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"  
