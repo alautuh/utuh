@@ -388,6 +388,20 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"  
+      },
+      {
+        "name": "Al-Quran Al-Kareem",
+        "logo_uri": "https://images-na.ssl-images-amazon.com/images/I/81qZcdIs-KL.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
+        "name": "MNC-Muslim",
+        "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/c/c9/MNC_Muslim1.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       }
     ]
       },
