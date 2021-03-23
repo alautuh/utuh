@@ -363,7 +363,7 @@
       },
       {
         "name": "VISION PRIME",
-         "logo_uri": "https://id.m.wikipedia.org/wiki/Berkas:Vision_Prime_2020.png",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/id/thumb/2/2b/Vision_Prime_2020.png/200px-Vision_Prime_2020.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
