@@ -693,7 +693,7 @@
       },
       {
         "name": "WARNER TV HD",
-	       "logo_uri": "https://www.nicepng.com/png/full/632-6324794_warner-bros-family-entertainment-logo-png.png",
+        "logo_uri": "https://icons.iconarchive.com/icons/wackypixel/tv-buttons/256/Warner-TV-icon.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
@@ -1088,8 +1088,8 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
-        "name": "FOX SPORTS HD",
-		"logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png",
+        "name": "FOX SPORTS 1 HD",
+		"logo_uri": "https://static.wikia.nocookie.net/ex515/images/0/07/FoxSports1.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
