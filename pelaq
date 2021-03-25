@@ -540,6 +540,18 @@
          "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
+         "name": "KPlus",
+         "logo_uri": "https://www.useetv.com/pimages/tvposter/k+.png",
+         "uri": "http://MaN@meu02.cularu.com:8880/live/yw14m118/qsmppR5yBf/71111.m3u8.ts?PlayTV"
+      },
+      {
+        "name": "WAKU-WAKU JAPAN",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/330px-WakuWaku_Japan_logo.svg.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+       }
+      {
          "name": "ZQ DRAMA",
          "logo_uri": "https://apkplz.net/storage/images/com/zqtv/live/com.zqtv.live_1.png",
          "uri": "http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0"
@@ -547,7 +559,7 @@
       {
            "name": "SAMURAI MOVIES",
            "logo_uri": "https://www.kindpng.com/picc/m/15-153899_clip-art-samurai-logo-png-transparent-png.png",
-           "uri": "https://cdn6.goprimetime.info/feed/LC2/index.m3u8"
+           "uri": "https://MaN@cdn6.goprimetime.info/feed/LC2/index.m3u8?PlayTV"
       },
       {
          "name": "Oh!K HD",
