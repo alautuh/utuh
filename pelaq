@@ -550,7 +550,7 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
-       }
+      },
       {
          "name": "ZQ DRAMA",
          "logo_uri": "https://apkplz.net/storage/images/com/zqtv/live/com.zqtv.live_1.png",
