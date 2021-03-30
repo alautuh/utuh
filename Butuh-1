@@ -179,7 +179,7 @@
       {
         "name": "ASTRO AURA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/71145.m3u8.ts?freenetTV"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/12m95489/hB6dUFPpsy/71145.m3u8.ts?freenetTV"
       },
       {
         "name": "ASTRO AURA 2",
@@ -397,7 +397,7 @@
     {
         "name": "HBO",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
-         "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/71057.m3u8.ts?freenetTV"
+         "uri": "http://MaN@ed8.oknirvana.club:8880/live/12m95489/hB6dUFPpsy/1711.m3u8.ts?freenetTV"
     },
     {
         "name": "HBO 2",
@@ -407,7 +407,7 @@
     {
         "name": "HBO 3",
          "logo_uri": "https://ewsat.com/img/HBO3.png",
-         "uri": "http://Man@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/30442.m3u8.ts?freenetTV"
+         "uri": "http://MaN@ed8.oknirvana.club:8880/live/12m95489/hB6dUFPpsy/30442.m3u8.ts?freenetTV"
     },
     {
         "name": "HALLMARK-MOVIES",
@@ -468,17 +468,17 @@
      {
           "name": "Sky Movies Select",
           "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/d/df/SkyMoviesSelect.png",
-          "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/28957.m3u8.ts?freenetTV"
+          "uri": "http://MaN@ed8.oknirvana.club:8880/live/12m95489/hB6dUFPpsy/28957.m3u8.ts?freenetTV"
      },
      {
            "name": "STAR MOVIES HD",
            "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
-           "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/1896.m3u8.ts?freenetTV"
+           "uri": "http://MaN@ed8.oknirvana.club:8880/live/12m95489/hB6dUFPpsy/1896.m3u8.ts?freenetTV"
        },
        {
             "name": "STAR ACTION",
             "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
-            "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/59541.m3u8.ts?freenetTV"
+            "uri": "http://MaN@ed8.oknirvana.club:8880/live/12m95489/hB6dUFPpsy/59541.m3u8.ts?freenetTV"
        },
        {
             "name": "STAR HITS",
@@ -488,12 +488,12 @@
        {
            "name": "SONY PIX HD",
            "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-           "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/1933.m3u8.ts?freenetTV"
+           "uri": "  .ts?freenetTV"
         },
         {
             "name": "MNX HD",
             "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png",
-            "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/55281.m3u8.ts?freenetTV"
+            "uri": "  .ts?freenetTV"
        },
        {
           "name": "MBC ACTION HD",
@@ -503,12 +503,12 @@
       {
           "name": "HITS HD",
           "logo_uri": "http://albepg.com/tvlogi/Film%20Hits.png",
-          "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/30459.m3u8.ts?freenetTV"
+          "uri": "  .ts?freenetTV"
      },
      {
           "name": "X Premium2 HD",
 	  "logo_uri": "http://albepg.com/tvlogi/Kino%20Premiere%202%20HD.png",
-          "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m3n0863/79981161/30419.m3u8.ts?freenetTV"
+          "uri": "http://MaN@ed8.oknirvana.club:8880/live/12m95489/hB6dUFPpsy/30419.m3u8.ts?freenetTV"
      },
      {
          "name": "SYFY(us)",
@@ -518,7 +518,7 @@
        {
          "name": "GOLD 1 HD",
           "logo_uri": "http://albepg.com/tvlogi/Digi%20Gold%201.png",
-         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/30462.m3u8.ts?freenetTV"
+         "uri": "  .ts?freenetTV"
        }
      ]
        },
