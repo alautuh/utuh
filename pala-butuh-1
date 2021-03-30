@@ -119,7 +119,7 @@
       {
           "name": "ASTRO CERIA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/71080.m3u8.ts"
+        "uri": "http://MaN@139.99.61.223/ceria.m3u8?MANtv"
       },
       {
         "name": "ASTRO OASIS 1",
@@ -129,7 +129,7 @@
       {
         "name": "ASTRO OASIS 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/71021.m3u8.ts?MANtv"
+        "uri": "http://MaN@139.99.61.223/oasis.m3u8?MANtv"
       },
       {
         "name": "ASTRO WARNA 1",
