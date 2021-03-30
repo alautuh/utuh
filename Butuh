@@ -126,27 +126,27 @@
       {
           "name": "ASTRO CERIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
-        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71080.m3u8.ts?hyppTV"
+        "uri": "http://MaN@139.99.61.223/ceria.m3u8"?hyppTV"
       },
       {
         "name": "ASTRO OASIS",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71021.m3u8.ts?hyppTV"
+        "uri": "http://MaN@139.99.61.223/oasis.m3u8?hyppTV"
       },
       {
         "name": "ASTRO WARNA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/71022.m3u8.ts?hyppTV"
+        "uri": "http://MaN@50.7.161.82:8278/streams/d/warna_pye/playlist.m3u8?hyppTV"
       },
       {
         "name": "ASTRO RIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://MANtv@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/1705.m3u8.ts?hyppTV"
+        "uri": "http://MaN@50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8?hyppTV"
       },
       {
         "name": "ASTRO CITRA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/71146.m3u8.ts?hyppTV"
+        "uri": "https://MaN@raizo.raizoml123.workers.dev/0:/IPTV/Playlist/Citra.m3u8?hyppTV"
       },
       {
         "name": "ASTRO PRIMA",
