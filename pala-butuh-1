@@ -99,17 +99,17 @@
       {
         "name": "DRAMA SANGAT",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
-        "uri": "http://MaN@c2.gunsnrose.club:8880/live/x3fgr7SYHf/5k74nH4yeX/71117.m3u8.ts?MANtv"
+        "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/171954?play_token=SO5rAODjHh?MANtv"
       },
       {
            "name": "ASTRO NAURA",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png",
-           "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/71023.m3u8.ts?MANtv"
+           "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/157490?play_token=U9yJNbiodq?MANtv"
       },
       {
            "name": "ASTRO HELLO",
            "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",
-           "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/71088.m3u8.ts?MANtv"
+           "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/157543?play_token=LGbBlXXL8D?MANtv"
       },
       {
           "name": "ASTRO CERIA 1",
@@ -134,7 +134,7 @@
       {
         "name": "ASTRO WARNA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/71022.m3u8.ts?MANtv"
+        "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/157492?play_token=g6IAqqFrhP?MANtv"
       },
       {
         "name": "ASTRO WARNA 2",
@@ -149,7 +149,7 @@
       {
         "name": "ASTRO RIA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/1705.m3u8.ts?MANtv"
+        "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/158347?play_token=tEy6Pebu8R?MANtv"
       },
       {
         "name": "ASTRO CITRA 1",
@@ -159,7 +159,7 @@
       {
         "name": "ASTRO CITRA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/ice12m1057/ns546857/71146?freenetTV"
+        "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/157569?play_token=3b8iwH4prH?MANtv"
       },
       {
         "name": "ASTRO PRIMA 1",
@@ -169,17 +169,17 @@
       {
         "name": "ASTRO PRIMA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
-        "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/71020.m3u8.ts?MANtv"
+        "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/157467?play_token=i9bgYtPhii?MANtv"
       },
       {
         "name": "ASTRO RANIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/71144.m3u8.ts?MANtv"
+        "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/171984?play_token=HaRYtZ6gMq?MANtv"
       },
       {
         "name": "ASTRO AURA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/71145.m3u8.ts?MANtv"
+        "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/P3i63XydMY/171986?play_token=sA2HvlBrvg?MANtv"
       },
       {
         "name": "ASTRO BOO 1 HD",
@@ -190,11 +190,6 @@
         "name": "ASTRO BOO 2 HD",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
         "uri": "https://MaN@raizo.raizoml123.workers.dev/0:/IPTV/Playlist/Boo.m3u8?freenetTV"
-      },
-      {
-        "name": "TAYANGAN HEBAT",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png",
-        "uri": "http://MaN@bit.ly/39iEZLS?MANtv"
       }
     ]
       },
@@ -452,12 +447,12 @@
        {
          "name": "SONY PIX HD",
          "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-         "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/1933.m3u8.ts?MANtv"
+         "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/49539?play_token=0IN6SDYMoW?MANtv"
        },
        {
           "name": "Starz Encore Action",
           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",
-          "uri": "http://MaN@c2.gunsnrose.club:8880/live/x3fgr7SYHf/5k74nH4yeX/58767.m3u8.ts?MANtv"
+          "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/30773?play_token=i0qhEQ6SIH?MANtv"
        },
        {
            "name": "SAMURAI MOVIES",
@@ -467,7 +462,7 @@
        {
          "name": "STAR MOVIES HD",
          "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
-         "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/1896.m3u8.ts?MANtv"
+         "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/11511?play_token=tShqR56lQD?MANtv"
        },
        {
          "name": "AND FLIX HD",
@@ -477,7 +472,7 @@
        {
          "name": "AND PRIVE HD",
          "logo_uri": "https://tvwiz.in/images/channel-images/And%20Prive%20HD.v2.w132.png",
-         "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/55158.m3u8.ts?MANtv"
+         "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/49557?play_token=JLtCo0ZCiD?MANtv"
        },
        {
             "name": "MNPLUS HD",
@@ -487,12 +482,12 @@
        {
          "name": "ACTION MAX(us)",
          "logo_uri": "https://cdn.tvpassport.com/image/station/240x135/actionmax.png",
-         "uri": "http://MaN@c2.gunsnrose.club:8880/live/x3fgr7SYHf/5k74nH4yeX/64352.m3u8.ts?MANtv"
+         "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/16145?play_token=aTNbz35YJS?MANtv"
        },
        {
            "name": "STAR ACTION",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
-           "uri": "http://MaN@152.89.62.105:8880/ice12m1057/ns546857/59541?MANtv"
+           "uri": "  ?MANtv"
        },
        {
            "name": "STAR HITS",
@@ -502,7 +497,7 @@
        {
           "name": "SYFY(uk)",
           "logo_uri": "https://fastly.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png",
-          "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/2359?play_token=GjAxz8uhTM?MANtv"
+          "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/2359?play_token=UkzgDWOIW4?MANtv"
        },
        {
            "name": "DISNEY+ HD",
