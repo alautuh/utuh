@@ -253,22 +253,22 @@
       {
          "name": "AOD",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",
-         "uri": "?freenetTV"
+         "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/264512?play_token=HFVrLKQIQI?freenetTV"
       },
       {
          "name": "IQIYI",
          "logo_uri": "https://deadline.com/wp-content/uploads/2016/12/iqiyi.png",
-         "uri": "?freenetTV"
+         "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/247425?play_token=u2A83W9Mz6?freenetTV"
       },
       {
          "name": "Pinoy TV",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png",
-         "uri": "http://MaN@ckte2.coolmyvip.club:8880/VafpnvRW5a/PCRhMJcm82/50124?freenetTV"
+         "uri": "http://MaN@iptvtree.net:8080/F12611/Oopvg0WpHG/147238?play_token=e4PsfBlVFU?freenetTV"
       },
       {
          "name": "CINEMA ONE",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png",
-         "uri": "http://MaN@ckte2.coolmyvip.club:8880/VafpnvRW5a/PCRhMJcm82/50119?freenetTV"
+         "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/247459?play_token=hQkUuM5dDW?freenetTV"
       },
       {
         "name": "KIX",
@@ -290,7 +290,7 @@
       {
          "name": "KPlus",
          "logo_uri": "https://www.useetv.com/pimages/tvposter/k+.png",
-         "uri": "?freenetTV"
+         "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/157567?play_token=UA1YrrKCLR?freenetTV"
       },
       {
         "name": "SONY ONE",
@@ -391,7 +391,7 @@
       {
                "name": "DISCOVERY ASIA",
               "logo_uri": "https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg",
-              "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/kg14m2n0841/zxcs5777/71072.m3u8.ts?freenetTV"
+              "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/157536?play_token=cydcXqHGhH?freenetTV"
         },
         {
             "name": "DISCOVERY CHANNEL",
@@ -410,22 +410,22 @@
         {
               "name": "SMITHSONIAN CHANNEL",
              "logo_uri": "https://static.epg.best/gb/SmithsonianChannel.uk.png",
-             "uri": "?freenetTV"
+             "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/8585?play_token=tbokl08Rhe?freenetTV"
         },
         {
               "name": "DMAX",
               "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png",
-              "uri": "?freenetTV"
+              "uri": "http://MaN@iptvtree.net:8080/F12611/bLklsvvjIl/158351?play_token=mMh8GEEUA1?freenetTV"
         },
         {
               "name": "DOCUBOX HD",
               "logo_uri": "https://i.imgur.com/rnQMXRm.jpg",
-              "uri": "?freenetTV"
+              "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/267033?play_token=vLkEMgPMjx?freenetTV"
         },
         {
               "name": "OUTDOOR",
               "logo_uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES",
-              "uri": "?freenetTV"
+              "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/15075?play_token=xY9hYmMVdG?freenetTV"
          }
       ]
         },
@@ -505,7 +505,7 @@
             {
                   "name": "ANIPLUS",
                   "logo_uri": "https://i.imgur.com/y1LQk44.png",
-                  "uri": "http://MaN@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/71110.m3u8.ts"
+                  "uri": "  "
              },
              {
                    "name": "MIAO MI",
