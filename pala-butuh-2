@@ -88,37 +88,37 @@
       {
          "name": "Pinoy TV",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png",
-         "uri": "http://MaN@152.89.62.105:8880/live/ice12m1057/ns546857/50124.m3u8.ts?MANtv"
+         "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/147238?play_token=WhOwdRWBF3?MANtv"
       },
       {
          "name": "CINEMA ONE",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png",
-         "uri": "http://MaN@152.89.62.105:8880/live/ice12m1057/ns546857/50119.m3u8.ts?MANtv"
+         "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/247459?play_token=MPAKmn6PzQ?MANtv"
       },
       {
         "name": "ASTRO AEC",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/zh/thumb/0/06/Astro_AEC_HD.png/400px-Astro_AEC_HD.png",
-        "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/1723.m3u8.ts?MANtv"
+        "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/247409?play_token=Dp8ju2ZgtC?MANtv"
       },
       {
         "name": "ASTRO AOD",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",
-        "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/1724.m3u8.ts?MANtv"
+        "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/247410?play_token=93sW7bTRbl?MANtv"
       },
       {
         "name": "ASTRO ShuangXing",
         "logo_uri": "https://www.astro-com.my/wp-content/uploads/2016/01/Astro-ShuangXing-HD-CH307-300x185.png",
-        "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/1727.m3u8.ts?MANtv"
+        "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/247428?play_token=QTPWtpuYbE?MANtv"
       },
       {
-         "name": "IQIYI",
+         "name": "IQIYI HD",
          "logo_uri": "https://deadline.com/wp-content/uploads/2016/12/iqiyi.png",
-         "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/71038.m3u8.ts?MANtv"
+         "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/247425?play_token=WpjjDFbN2a?MANtv"
       },
       {
          "name": "oh!k HD",
          "logo_uri": "https://www.ohk-tv.com/img/logo.png",
-         "uri": "http://MaN@152.89.62.105:8880/live/ice12m1057/ns546857/71054.m3u8.ts?MANtv"
+         "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/247426?play_token=ATylddKmkg?MANtv"
       },
       {
          "name": "ZQ DRAMA",
@@ -252,7 +252,7 @@
        {
             "name": "&PICTURES",
             "logo_uri": "https://dennbc.com/wp-content/uploads/2018/12/ChannelLogo_635509666377656250.png",
-            "uri": "http://MaN@152.89.62.105:8880/live/ice12m1057/ns546857/1957.m3u8.ts?MANtv"
+            "uri": "?MANtv"
        },
        {
             "name": "B4u Kadak",
@@ -316,7 +316,7 @@
       {
         "name": "ANIPLUS",
         "logo_uri": "https://i.imgur.com/y1LQk44.png",
-        "uri": "http://MaN@152.89.62.105:8880/ice12m1057/ns546857/71110?MANtv"
+        "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/157566?play_token=szjkiqduOu?MANtv"
       },
       {
         "name": "ANIMAX",
@@ -466,7 +466,7 @@
       {
            "name": "DMAX",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/9/90/Dmax_engines_logo.png",
-           "uri": "http://MaN@c2.gunsnrose.club:8880/live/x3fgr7SYHf/5k74nH4yeX/71097.m3u8.ts?MANtv"
+           "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/158351?play_token=Gt7pP0dNJX?MANtv"
       },
       {
         "name": "TLC",
@@ -560,67 +560,62 @@
        {
           "name": "BT SPORTS 1",
           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png",
-          "uri": "http://MaN@152.89.62.105:8880/ice12m1057/ns546857/2943?MANtv"
+          "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/S5F4Dmi28G/270?play_token=Gv1KOoTlZw?MANtv"
        },
        {
           "name": "BT SPORTS 2",
           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png",
-          "uri": "http://MaN@152.89.62.105:8880/ice12m1057/ns546857/2942?MANtv"
+          "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/273?play_token=AlnPUuRGrP?MANtv"
        },
        {
           "name": "ASTRO SUPERSPORTS 1",
           "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-          "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/59220.m3u8.ts?MANtv"
+          "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/247415?play_token=bYOmcGJr0w?MANtv"
        },
        {
             "name": "ASTRO SUPERSPORTS 2",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/59219.m3u8.ts?MANtv"
+            "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/247417?play_token=RL9oSv0mnF?MANtv"
         },
         {
             "name": "ASTRO SUPERSPORTS 3",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/59218.m3u8.ts?MANtv"
+            "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/247418?play_token=YhAZIHgYSq?MANtv"
         },
         {
             "name": "ASTRO SUPERSPORTS 4",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/59217.m3u8.ts?MANtv"
+            "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/247419?play_token=68CMyUkP4N?MANtv"
         },
         {
             "name": "START SPORTS SELECT 1",
             "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
-            "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/55340.m3u8.ts?MANtv"
+            "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/82628?play_token=aDsrjXJp8f?MANtv"
         },
         {
             "name": "STAR SPORTS SELECT 2",
             "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
-            "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/55338.m3u8.ts?MANtv"
+            "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/16619?play_token=Y2puLvu1fT?MANtv"
         },
         {
-             "name": "Premier Sports HD",
-             "logo_uri": "https://www.digisport.cz/wp-content/themes/digisport/dist/images/premier-sport_20ba4015.png",
-             "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/28934.m3u8.ts?MANtv"
-         },
-         {
              "name": "SPORT TV 1 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png",
-             "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/3192.m3u8.ts?MANtv"
+             "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/1483?play_token=uV4FmksjbC?MANtv"
          },
          {
              "name": "SPORT TV 2 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png",
-             "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/3191.m3u8.ts?MANtv"
+             "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/M7h5ql7GWZ/1486?play_token=8ODIBZbcZn?MANtv"
          },
          {
              "name": "SPORT TV 3 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png",
-             "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/3190.m3u8.ts?MANtv"
+             "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/1489?play_token=mZLwwImjkT?MANtv"
          },
          {
              "name": "SPORT TV 4 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png",
-             "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/3189.m3u8.ts?MANtv"
+             "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/1492?play_token=NnCHnSpoxY?MANtv"
          },
          {
              "name": "RTM SPORTS",
@@ -630,7 +625,7 @@
          {
              "name": "ASTRO ARENA",
              "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
-             "uri": "http://MaN@mu01e.okcomputer.club:8880/live/MeE4LBtBs2/NrUbfgTGfm/71102.m3u8.ts?MANtv"
+             "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/157485?play_token=8GcePrP4kr?MANtv"
        },
        {
           "name": "MNC SPORTS",
