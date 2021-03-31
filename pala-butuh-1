@@ -472,7 +472,7 @@
        {
          "name": "AND FLIX HD",
          "logo_uri": "https://static.epg.best/in/AndFlix.in.png",
-         "uri": "http://Man@152.89.62.105:8880/live/JgMJSKZLDv/fTb4MGnPH2/54975.m3u8.ts?MANtv"
+         "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/45506?play_token=D4RKACP9Fx?MANtv"
        },
        {
          "name": "AND PRIVE HD",
@@ -483,11 +483,6 @@
             "name": "MNPLUS HD",
             "logo_uri": "https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png",
             "uri": "http://MaN@skylogic.site:8080/live/f653192f/Ms3FtoRU2B/192961.ts?MANtv"
-       },
-       {
-         "name": "MNX HD",
-         "logo_uri": "https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000045360000/PORTRAIT/qELkgspp.png",
-         "uri": "http://MaN@152.89.62.105:8880/ice12m1057/ns546857/55281?freenetTV"
        },
        {
          "name": "ACTION MAX(us)",
@@ -507,7 +502,7 @@
        {
           "name": "SYFY(uk)",
           "logo_uri": "https://fastly.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png",
-          "uri": "http://MaN@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/3096.m3u8.ts?MANtv"
+          "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/2359?play_token=GjAxz8uhTM?MANtv"
        },
        {
            "name": "DISNEY+ HD",
