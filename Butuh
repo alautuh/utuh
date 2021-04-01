@@ -286,7 +286,7 @@
       {
          "name": "&Xplor HD",
          "logo_uri": "https://www.tsbi.in/wp-content/uploads/2019/09/clients_logo_explore_grey.png",
-         "uri": "http://MaN@152.89.62.105:8880/live/cbDP2kzNJN/xDtFMTPtLT/55228.m3u8.ts?hyppTV"
+         "uri": "http://MaN@iptvtree.net:8080/F11989/705a48c2/196116?play_token=TFwzZCQ0QL?hyppTV"
       },
       {        
 		"name": "MTV HD",
@@ -562,7 +562,7 @@
       {
          "name": "STAR MOVIES HD",
          "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
-         "uri": "?hypptv"
+         "uri": "http://MaN@iptvtree.net:8080/F11989/1B02DN98oj/11511?play_token=KN5bIXJQch?hypptv"
       },
       {
            "name": "DISNEY+ HD",
@@ -582,17 +582,22 @@
       {
          "name": "SYFY",
          "logo_uri": "https://fastly.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png",
-         "uri": "?hypptv"
+         "uri": "http://MaN@iptvtree.net:8080/F11989/705a48c2/2359?play_token=HR7ZT4b4a3?hypptv"
       },
       {
            "name": "MNPLUS HD",
-           "logo_uri": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000045360000/PORTRAIT/qELkgspp.png",
-           "uri": "?hyppTV"
+           "logo_uri": "https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png",
+           "uri": "http://MaN@iptvtree.net:8080/F11989/705a48c2/192961?play_token=Y5jNsz3dLn?hyppTV"
       },
       {
            "name": "&FLIX HD",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
-           "uri": "?hypptv"
+           "uri": "http://MaN@iptvtree.net:8080/F11989/1B02DN98oj/45506?play_token=G7Yi3yXTfQ?hypptv"
+      },
+      {
+           "name": "&PRIVE HD",
+           "logo_uri": "https://tvwiz.in/images/channel-images/And%20Prive%20HD.v2.w132.png",
+           "uri": "http://MaN@iptvtree.net:8080/F11989/705a48c2/49557?play_token=TBjOITyxvl?hypptv"
       },
       {
          "name": "SONY PIX HD",
