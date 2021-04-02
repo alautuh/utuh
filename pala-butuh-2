@@ -255,6 +255,11 @@
             "uri": "http://MaN@meu02.cularu.com:8880/live/czw12m3n157/sarc3472/1957.m3u8.ts?MANtv"
        },
        {
+            "name": "&XPLOR HD",
+            "logo_uri": "https://i.ytimg.com/vi/ysJp5rxxzVs/maxresdefault.jpg",
+            "uri": "http://MaN@meu02.cularu.com:8880/live/czw12m3n157/sarc3472/55228.m3u8.ts?MANtv"
+       },
+       {
             "name": "B4u Kadak",
             "logo_uri": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000066390000/PORTRAIT/zdkmQbLP.png",
             "uri": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?MANtv"
