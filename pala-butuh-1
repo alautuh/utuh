@@ -487,7 +487,7 @@
        {
            "name": "STAR ACTION",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
-           "uri": "  ?MANtv"
+           "uri": "http://MaN@meu02.cularu.com:8880/live/czw12m3n157/sarc3472/59541.m3u8.ts?MANtv"
        },
        {
            "name": "STAR HITS",
@@ -495,7 +495,7 @@
            "uri": "http://MaN@152.89.62.105:8880/ice12m1057/ns546857/59538?freenetTV"
        },
        {
-          "name": "SYFY(uk)",
+          "name": "SYFY",
           "logo_uri": "https://fastly.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png",
           "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/2359?play_token=UkzgDWOIW4?MANtv"
        },
