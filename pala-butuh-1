@@ -288,6 +288,13 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
+        "name": "LifeStyle & Fashion",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/id/1/11/MNCLifestyleFashion.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
         "name": "ie",
         "logo_uri": "https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059261_logo_ie.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd",
