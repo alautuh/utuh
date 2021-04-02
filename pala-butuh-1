@@ -555,7 +555,7 @@
        },
        {
          "name": "FOXLIFE",
-         "logo_uri": "https://static.epg.best/in/FOXLife.in.png",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Fox_Life_France.svg/1200px-Fox_Life_France.svg.png",
          "uri": "http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd", 
          "drm_scheme": "widevine", 
          "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
