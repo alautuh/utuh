@@ -425,7 +425,7 @@
        },
        {
           "name": "FOX CHANNEL",
-           "logo_uri": "https://i.pinimg.com/originals/d3/fd/5e/d3fd5e0ed6f5b7906fe0e528e6bb2660.png",
+           "logo_uri": "https://stagingcms.cignal.tv/Upload/Images/FOX-HD.png",
           "uri": "https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd",
           "drm_scheme": "widevine",
           "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
