@@ -404,7 +404,7 @@
     {
         "name": "HBO 3",
          "logo_uri": "https://ewsat.com/img/HBO3.png",
-         "uri": "http://MaN@ed8.oknirvana.club:8880/live/12m95489/hB6dUFPpsy/30442.m3u8.ts?freenetTV"
+         "uri": "http://MaN@meu02.cularu.com:8880/live/c12m1055/sdga3583/49262.m3u8.ts?freenetTV"
     },
     {
         "name": "HALLMARK-MOVIES",
@@ -419,7 +419,7 @@
      {
            "name": "DISNEY+ HD",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png",
-           "uri": "http://MaN@ed8.oknirvana.club:8880/live/12m95489/hB6dUFPpsy/60230.m3u8.ts?freenetTV"
+           "uri": "http://MaN@meu02.cularu.com:8880/live/c12m1055/sdga3583/60230.m3u8.ts?freenetTV"
      },
      {
           "name": "EPIX",
@@ -475,12 +475,12 @@
        {
             "name": "STAR ACTION",
             "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
-            "uri": "http://MaN@ed8.oknirvana.club:8880/live/12m95489/hB6dUFPpsy/59541.m3u8.ts?freenetTV"
+            "uri": "http://MaN@meu02.cularu.com:8880/live/c12m1055/sdga3583/59541.m3u8.ts?freenetTV"
        },
        {
             "name": "STAR HITS",
             "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
-            "uri": "http://MaN@ed8.oknirvana.club:8880/live/12m95489/hB6dUFPpsy/59538.m3u8.ts?freenetTV"
+            "uri": "http://MaN@meu02.cularu.com:8880/live/c12m1055/sdga3583/59538.m3u8?freenetTV"
        },
        {
            "name": "SONY PIX HD",
