@@ -492,17 +492,17 @@
        {
            "name": "STAR HITS",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
-           "uri": "http://MaN@152.89.62.105:8880/ice12m1057/ns546857/59538?freenetTV"
+           "uri": "http://MaN@mvu03.wanicelife.com:8880/live/SWFAF142208/AT2K8VT6/59538.m3u8.ts?MANtv"
        },
        {
           "name": "SYFY",
           "logo_uri": "https://fastly.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png",
-          "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/2359?play_token=UkzgDWOIW4?MANtv"
+          "uri": "http://MaN@iptvtree.net:8080/CHEdeUtFyX/s2sqTyuUvX/1068?play_token=rCdfca1uoi?MANtv"
        },
        {
            "name": "DISNEY+ HD",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png",
-           "uri": "http://MaN@152.89.62.105:8880/ice12m1057/ns546857/60230?MANtv"
+           "uri": ": "http://MaN@mvu03.wanicelife.com:8880/live/SWFAF142208/AT2K8VT6/60230.m3u8.ts?MANtv"
        },
        {
          "name": "HITS MOVIES",
