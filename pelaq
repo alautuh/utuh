@@ -360,15 +360,15 @@
       },
       {
         "name": "ZEE CINEMA",
-	       "logo_uri": "https://static.epg.best/sa/ZeeCinemaEn.sa.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd",
+        "logo_uri": "https://static.epg.best/sa/ZeeCinemaEn.sa.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeCinema-HD/sa_dash_vmx/ZeeCinema-HD.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "ZEE TV",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeTV-HD/sa_dash_vmx/ZeeTV-HD.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
@@ -381,14 +381,14 @@
       },
       {
         "name": "COLORS",
-	       "logo_uri": "https://static.epg.best/in/Colors.in.png",
+         "logo_uri": "https://static.epg.best/in/Colors.in.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
         "name": "COLORS TAMIL HD",
-		     "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
@@ -408,15 +408,15 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {        
-		      "name": "SONY SET",
-		       "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/5/57/SET_India_2016.png",
+        "name": "SONY SET",
+        "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/5/57/SET_India_2016.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {        
-		       "name": "MTV HD",
-		      "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/c/cb/MTV_Music_2017.png",
+         "name": "MTV HD",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/c/cb/MTV_Music_2017.png",
          "uri": "https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd",
          "drm_scheme": "widevine",
          "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZoZExpdmVfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkxZRkN2aER4LUt5TzJMSlRGRVptQjZEdzF0a2szLXdYTUhDbkEyTm51dTNOd092c2VCb1VsY08tRXVia3pGSnYzR2dmU2hWaVpHMXpUWEs4c180QThkbVBkMGQ4VzhtVzEtRmhWb0trMWZENWVwajhETGo5YWNhRVVwYUNOTl9IazJtVVMwU0RRdTRTemtFaDM4eElEWHpENXQ4MTZtcFp2WnpPVjdnNThsV0xiOGJGQ2RBeE1TOXN3Z04xSnlnVVZVNDgyNV96R3FYdjdxZ0tlYmVJZHdvQUw3TWpSRG5JWWdDTkdsRmg4RThLSnBBSGhmQlZqaEdRN0FNc2RyNVlBPT0iLCJ1ZGlkIjoiOGZjYmM3NDQ5MWQ4N2I5MSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3D%3D&signature=woN6w5C3RnowAIFR%2B7R3G8oSKz0%3D"
