@@ -256,6 +256,13 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
+        "name": "ZEE BIOSKOP",
+        "logo_uri": "https://i.postimg.cc/V6xWZTgY/zeebioskop.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
+      },
+      {
          "name": "&Xplor HD",
          "logo_uri": "https://www.tsbi.in/wp-content/uploads/2019/09/clients_logo_explore_grey.png",
          "uri": "http://MaN@iptvtree.net:8080/F11989/705a48c2/196116?play_token=TFwzZCQ0QL?hyppTV"
