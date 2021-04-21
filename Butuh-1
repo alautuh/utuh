@@ -102,6 +102,11 @@
         "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/171954?play_token=rszQOl0UJa?freenetTV"
       },
       {
+        "name": "AWESOME TV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",
+        "uri": "http://MaN@51.79.208.146:61980/myplay/c_58014/index.m3u8?PlayTV"
+      },
+      {
         "name": "ASTRO NAURA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",
         "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/157490?play_token=z7WvW8G4tS?freenetTV"
