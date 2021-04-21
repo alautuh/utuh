@@ -60,6 +60,11 @@
         "uri": "http://MaN@iptvtree.net:8080/14169/b2a840a6/171954?play_token=osUPqmNQI1?PlayTV"
       },
       {
+        "name": "AWESOME TV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",
+        "uri": "http://MaN@51.79.208.146:61980/myplay/c_58014/index.m3u8?PlayTV"
+      },
+      {
         "name": "SURIA",
          "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/7/78/Suria.png",
         "uri": "https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd",
