@@ -371,7 +371,7 @@
       {
         "name": "ZEE CINEMA",
         "logo_uri": "https://static.epg.best/sa/ZeeCinemaEn.sa.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeCinema-HD/sa_dash_vmx/ZeeCinema-HD.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeCinemaHD/sa_dash_vmx/ZeeCinemaHD.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
@@ -929,7 +929,7 @@
       {
         "name": "ANIPLUS",
         "logo_uri": "https://i.imgur.com/y1LQk44.png",
-        "uri": "http://MaN@iptvtree.net:8080/14169/b2a840a6/157566?play_token=4nz0NY4ZYN?PlayTV"
+        "uri": "http://MaN@mvu03.wanicelife.com:8880/live/SFL123292/9M790R763/71110.m3u8.ts?PlayTV"
       },
       {
         "name": "NICK JR.",
