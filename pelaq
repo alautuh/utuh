@@ -1184,17 +1184,27 @@
         {
              "name": "SPORT TV 1 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png",
-             "uri": "http://MaN@iptvtree.net:8080/14169/b2a840a6/1483?play_token=yqGhsijKxI?PlayTV"
+             "uri": "https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8?PlayTV"
          },
          {
              "name": "SPORT TV 2 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png",
-             "uri": "http://MaN@iptvtree.net:8080/14169/b2a840a6/1486?play_token=ErgqbUyfZi?PlayTV"
+             "uri": "https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8?PlayTV"
          },
          {
              "name": "SPORT TV 3 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png",
-             "uri": "http://MaN@iptvtree.net:8080/14169/b2a840a6/1489?play_token=sFoZwEUuii?PlayTV"
+             "uri": "https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8?PlayTV"
+         },
+         {
+             "name": "SPORT TV 4 HD",
+             "logo_uri": "http://nowwatchtvlive.vip/wp-content/uploads/2021/02/sport-tv4.png",
+             "uri": "https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8?PlayTV"
+         },
+         {
+             "name": "SPORT TV 5 HD",
+             "logo_uri": "http://nowwatchtvlive.vip/wp-content/uploads/2021/02/sport-tv5.png",
+             "uri": "https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8?PlayTV"
          },
          {
               "name": "BT SPORTS 1",
