@@ -195,7 +195,7 @@
       {
         "name": "ASTRO BOO HD",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58038/index.m3u8.PlayTV"
+        "uri": "http://51.79.208.146:61980/myplay/c_58038/index.m3u8?PlayTV"
       }
     ]
       },
