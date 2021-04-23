@@ -124,7 +124,7 @@
       {
           "name": "ASTRO CERIA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
-        "uri": "http://MaN@139.99.61.223/ceria.m3u8?MANtv"
+        "uri": "http://51.79.208.146:61980/myplay/c_58024/index.m3u8?MANtv"
       },
       {
         "name": "ASTRO OASIS 1",
@@ -134,7 +134,7 @@
       {
         "name": "ASTRO OASIS 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://MaN@139.99.61.223/oasis.m3u8?MANtv"
+        "uri": "http://51.79.208.146:61980/myplay/c_58019/index.m3u8?MANtv"
       },
       {
         "name": "ASTRO WARNA 1",
@@ -189,7 +189,7 @@
       {
         "name": "ASTRO BOO 1 HD",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-        "uri": "http://MaN@139.99.61.223/boo.m3u8?MANtv"
+        "uri": "http://51.79.208.146:61980/myplay/c_58038/index.m3u8?MANtv"
       },
       {
         "name": "ASTRO BOO 2 HD",
