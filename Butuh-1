@@ -114,7 +114,7 @@
       {
           "name": "ASTRO CERIA 1",
           "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
-          "uri": "http://MaN@139.99.61.223/ceria.m3u8?freenetTV  "
+          "uri": "http://51.79.208.146:61980/myplay/c_58024/index.m3u8?freenetTV"
       },
       {
           "name": "ASTRO CERIA 2",
@@ -124,7 +124,7 @@
       {
         "name": "ASTRO OASIS 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://MaN@139.99.61.223/oasis.m3u8?freenetTV"
+        "uri": "http://51.79.208.146:61980/myplay/c_58019/index.m3u8?freenetTV"
       },
       {
         "name": "ASTRO OASIS 2",
@@ -174,7 +174,7 @@
       {
         "name": "ASTRO RANIA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "  ?freenetTV"
+        "uri": "http://51.79.208.146:61980/myplay/c_58034/index.m3u8?freenetTV"
       },
       {
         "name": "ASTRO RANIA 2",
@@ -184,7 +184,7 @@
       {
         "name": "ASTRO AURA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/12m95489/hB6dUFPpsy/71145.m3u8.ts?freenetTV"
+        "uri": "http://51.79.208.146:61980/myplay/c_58036/index.m3u8?freenetTV"
       },
       {
         "name": "ASTRO AURA 2",
@@ -199,7 +199,7 @@
       {
         "name": "ASTRO BOO 1 HD",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-        "uri": " http://MaN@139.99.61.223/boo.m3u8?freenetTV"
+        "uri": "http://51.79.208.146:61980/myplay/c_58038/index.m3u8?freenetTV"
       },
       {
         "name": "ASTRO BOO 2 HD",
