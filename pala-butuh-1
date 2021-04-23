@@ -457,7 +457,7 @@
        {
          "name": "SONY PIX HD",
          "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-         "uri": "http://MaN@mvu03.wanicelife.com:8880/live/SWFAF142208/AT2K8VT6/1933.m3u8.ts?MANtv"
+         "uri": "http://MaN@meu02.cularu.com:8880/c12m1262/awek2468/1933?MANtv"
        },
        {
           "name": "Starz Encore Action",
@@ -477,12 +477,12 @@
        {
          "name": "AND FLIX HD",
          "logo_uri": "https://static.epg.best/in/AndFlix.in.png",
-         "uri": "http://MaN@mvu03.wanicelife.com:8880/live/SWFAF142208/AT2K8VT6/54975.m3u8.ts?MANtv"
+         "uri": "http://MaN@meu02.cularu.com:8880/c12m1262/awek2468/54975?MANtv"
        },
        {
          "name": "AND PRIVE HD",
          "logo_uri": "https://tvwiz.in/images/channel-images/And%20Prive%20HD.v2.w132.png",
-         "uri": "http://MaN@mvu03.wanicelife.com:8880/live/SWFAF142208/AT2K8VT6/55158.m3u8.ts?MANtv"
+         "uri": "http://MaN@meu02.cularu.com:8880/c12m1262/awek2468/55158?MANtv"
        },
        {
             "name": "MNPLUS HD",
@@ -497,12 +497,12 @@
        {
            "name": "STAR ACTION",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
-           "uri": "http://MaN@mvu03.wanicelife.com:8880/live/SWFAF142208/AT2K8VT6/59541.m3u8.ts?MANtv"
+           "uri": "http://MaN@meu02.cularu.com:8880/c12m1262/awek2468/59541?MANtv"
        },
        {
            "name": "STAR HITS",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
-           "uri": "http://MaN@mvu03.wanicelife.com:8880/live/SWFAF142208/AT2K8VT6/59538.m3u8.ts?MANtv"
+           "uri": "http://MaN@meu02.cularu.com:8880/c12m1262/awek2468/59538?MANtv"
        },
        {
           "name": "SYFY",
@@ -512,7 +512,7 @@
        {
            "name": "DISNEY+ HD",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png",
-           "uri": "http://MaN@mvu03.wanicelife.com:8880/live/SWFAF142208/AT2K8VT6/60230.m3u8.ts?MANtv"
+           "uri": "http://MaN@meu02.cularu.com:8880/c12m1262/awek2468/60230?MANtv"
        },
        {
          "name": "HITS MOVIES",
