@@ -3,16 +3,16 @@
           "name": "TV MALAYSIA",
           "samples": [
        {
-           "name": "TV1",
-		"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",
-           "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
-           "drm_scheme": "widevine",
-           "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
+        "name": "TV1",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227471/3221227471.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
         "name": "TV2",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227490/3221227490.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
