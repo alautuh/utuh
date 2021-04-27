@@ -99,7 +99,7 @@
       {
         "name": "DRAMA SANGAT",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58011/index.m3u8?freenetTV"
+        "uri": "http://MaN@mvu03.wanicelife.com:8880/FLW4F317/34PYD9R9/71117?freenetTV"
       },
       {
         "name": "AWESOME TV",
@@ -114,7 +114,7 @@
       {
           "name": "ASTRO CERIA 1",
           "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
-          "uri": "http://51.79.208.146:61980/myplay/c_58024/index.m3u8?freenetTV"
+          "uri": "http://MaN@139.99.61.223/ceria.m3u8?freenetTV"
       },
       {
           "name": "ASTRO CERIA 2",
@@ -124,7 +124,7 @@
       {
         "name": "ASTRO OASIS 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58019/index.m3u8?freenetTV"
+        "uri": "http://MaN@139.99.61.223/oasis.m3u8?freenetTV"
       },
       {
         "name": "ASTRO OASIS 2",
@@ -174,7 +174,7 @@
       {
         "name": "ASTRO RANIA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58034/index.m3u8?freenetTV"
+        "uri": "http://MaN@mvu03.wanicelife.com:8880/FLW4F317/34PYD9R9/71144?freenetTV"
       },
       {
         "name": "ASTRO RANIA 2",
@@ -184,7 +184,7 @@
       {
         "name": "ASTRO AURA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58036/index.m3u8?freenetTV"
+        "uri": "http://MaN@mvu03.wanicelife.com:8880/FLW4F317/34PYD9R9/71145?freenetTV"
       },
       {
         "name": "ASTRO AURA 2",
@@ -199,7 +199,7 @@
       {
         "name": "ASTRO BOO 1 HD",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58038/index.m3u8?freenetTV"
+        "uri": "http://MaN@139.99.61.223/boo.m3u8?freenetTV"
       },
       {
         "name": "ASTRO BOO 2 HD",
@@ -424,7 +424,7 @@
     {
         "name": "SHOWTIME",
         "logo_uri": "https://www.bellmedia.ca/wp-content/uploads/2019/01/showtime-logo-black-01.png",
-         "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/6380?play_token=rCxhoN9iXN?freenetTV"
+         "uri": "http://MaN@mvu03.wanicelife.com:8880/FLW4F317/34PYD9R9/3099?freenetTV"
      },
      {
            "name": "DISNEY+ HD",
@@ -480,7 +480,7 @@
      {
            "name": "STAR MOVIES HD",
            "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
-           "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/11511?play_token=bN4Y47IzuE?freenetTV"
+           "uri": "http://MaN@mvu03.wanicelife.com:8880/FLW4F317/34PYD9R9/1896?freenetTV"
        },
        {
             "name": "STAR ACTION",
