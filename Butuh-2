@@ -81,13 +81,6 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
-         "name": "COLORS CINEPLEX HD",
-         "logo_uri": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png",
-         "uri": "https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd",
-         "drm_scheme": "widevine",
-         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09IiwidWRpZCI6IjhmY2JjNzQ0OTFkODdiOTEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3D&signature=kDDuaRYMluIZgvBF%2BOaY3z97df0%3D"
-      },
-      {
          "name": "COLORS CINEPLEX",
 		"logo_uri": "https://sc.dish.com/shared/images/station-logos/CLRSC.PNG",
          "uri": "http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd",
@@ -100,13 +93,6 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
-      },
-      {
-         "name": "COLORS HD",
-         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",
-         "uri": "https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd",
-         "drm_scheme": "widevine",
-         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMejNqNVRnbUdkSXk4Qkx6aDJsc09pNDNqcWVXNmN6NzcxZlppazZQbjIzWEwyU2VsOHBJU1dZeXZSeTdpWThUWnpxRWtzR1hoVWYxRkFjSGRBSEdSbU1NU3dwUVI5czNuUi1zMnV4bVRDZGktejBsWmJQWGNGRDJNMFZDSmkxcjhjRUdtRkljRGp5UnZVUFZMUWgtZUxZcjZ3THdzZ1RXdHdLRWVSOG1NS1gzN3dFblRuVGVRbEpqVUFpYU54UWZWV3lzUzNBQ2xIVklkNkQtN014RTEtTnNtcExtVS0wdk1XblBVLVlaMkxTVGs2ZUFrZUVCQUhoOGJsQjVWTzlkNUVfWGpkSjFIZ043U3VraHVTX2JBNjdTOUVIQnZmaURFamZLek53aGVkQTdfb0loZUN2QUctd2NJWGF5RWV3U3YwdXBnNFA5b1d0cFI1R2lkSlVMNkxYdXNOZDIwZXo1YzZfdUtuTUFHV1pmbTlpSlNldndmTzM4YW9XcExwR0gyZ1N5WEN1Y05qSEcxZjdWRXd2RzgwPSZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzIiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzaGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkx6M2o1VGdtR2RJeThCTHpoMmxzT2k0M2pxZVc2Y3o3NzFmWmlrNlBuMjNYTDJTZWw4cElTV1l5dlJ5N2lZOFRaenFFa3NHWGhVZjFGQWNIZEFIR1JtTU1Td3BRUjlzM25SLXMydXhtVENkaS16MGxaYlBYY0ZEMk0wVkNKaTFyOGNFR21GSWNEanlSdlVQVkxRaC1lTFlyNndMd3NnVFd0d0tFZVI4bU1LWDM3d0VuVG5UZVFsSmpVQWlhTnhRZlZXeXNTM0FDbEhWSWQ2RC03TXhFMS1Oc21wTG1VLTB2TVduUFUtWVoyTFNUazZlQWtlRUJBSGg4YmxCNVZPOWQ1RV9YamRKMUhnTjdTdWtodVNfYkE2N1M5RUhCdmZpREVqZkt6TndoZWRBN19vSWhlQ3ZBRy13Y0lYYXlFZXdTdjB1cGc0UDlvV3RwUjVHaWRKVUw2TFh1c05kMjBlejVjNl91S25NQUdXWmZtOWlKU2V2d2ZPMzhhb1dwTHBHSDJnU3lYQ3VjTmpIRzFmN1ZFd3ZHODA9IiwidWRpZCI6IkhyVElZU1JvTUVXd1JTYWZuN05JT1lzeW41czIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=X6dMe6m%2f2rzh7AYSDlBGNp%2fp%2f3o%3d"
       },
       {
           "name": "COLORS",
@@ -258,12 +244,12 @@
       {
          "name": "AOD",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",
-         "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/264512?play_token=HFVrLKQIQI?freenetTV"
+         "uri": "http://MaN@mvu03.wanicelife.com:8880/FLW4F317/34PYD9R9/1724?freenetTV"
       },
       {
          "name": "IQIYI",
          "logo_uri": "https://deadline.com/wp-content/uploads/2016/12/iqiyi.png",
-         "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/247425?play_token=u2A83W9Mz6?freenetTV"
+         "uri": "http://MaN@mvu03.wanicelife.com:8880/FLW4F317/34PYD9R9/71038?freenetTV"
       },
       {
          "name": "Pinoy TV",
@@ -396,7 +382,7 @@
       {
                "name": "DISCOVERY ASIA",
               "logo_uri": "https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg",
-              "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/157536?play_token=cydcXqHGhH?freenetTV"
+              "uri": "http://MaN@mvu03.wanicelife.com:8880/FLW4F317/34PYD9R9/71072?freenetTV"
         },
         {
             "name": "DISCOVERY CHANNEL",
@@ -415,7 +401,7 @@
         {
               "name": "SMITHSONIAN CHANNEL",
              "logo_uri": "https://static.epg.best/gb/SmithsonianChannel.uk.png",
-             "uri": "http://MaN@iptvtree.net:8080/F12611/b199b47b/8585?play_token=tbokl08Rhe?freenetTV"
+             "uri": "http://MaN@mvu03.wanicelife.com:8880/FLW4F317/34PYD9R9/49043?freenetTV"
         },
         {
               "name": "DMAX",
