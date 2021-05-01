@@ -57,7 +57,7 @@
       {
         "name": "DRAMA SANGAT",
         "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/c/ce/Jap.png",
-        "uri": "http://23.237.61.18:61980/myplay/c_58011/index.m3u8?key=dXR4MdR_wOP4qM4bhpqymw?PlayTV"
+        "uri": "  ?PlayTV"
       },
       {
         "name": "AWESOME TV",
@@ -180,7 +180,7 @@
       {
         "name": "ASTRO RANIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://23.237.61.18:61980/myplay/c_58034/index.m3u8?key=dXR4MdR_wOP4qM4bhpqymw?PlayTV"
+        "uri": "  ?PlayTV"
       },
       {
         "name": "ASTRO AURA",
@@ -195,7 +195,7 @@
       {
         "name": "ASTRO BOO HD",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-        "uri": "http://23.237.61.18:61980/myplay/c_58038/index.m3u8?key=dXR4MdR_wOP4qM4bhpqymw?PlayTV"
+        "uri": "http://MaN@139.99.61.223/boo.m3u8?PlayTV"
       }
     ]
       },
