@@ -218,7 +218,7 @@
       {
         "name": "GLOBAL TV",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/GTV/sa_dash_vmx/GTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
