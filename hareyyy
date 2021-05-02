@@ -65,6 +65,11 @@
         "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8?PlayTV"
       },
       {
+        "name": "IKIM",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Radio_IKIM.png/240px-Radio_IKIM.png",
+        "uri": "https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8?PlayTV"
+      },
+      {
         "name": "AWESOME TV",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",
         "uri": "http://MaN@bit.ly/3343fNI?PlayTV"
