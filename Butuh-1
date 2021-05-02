@@ -109,7 +109,7 @@
       {
         "name": "IKIM",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Radio_IKIM.png/240px-Radio_IKIM.png",
-        "uri": "https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8?PlayTV"
+        "uri": "https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8?freenetTV"
       },
       {
         "name": "AWESOME TV",
