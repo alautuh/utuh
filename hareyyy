@@ -60,6 +60,11 @@
         "uri": "http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8?PlayTV"
       },
       {
+        "name": "TVS",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TVS_%28Fernsehsender%29_Logo.svg/820px-TVS_%28Fernsehsender%29_Logo.svg.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8?PlayTV"
+      },
+      {
         "name": "AWESOME TV",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",
         "uri": "http://MaN@bit.ly/3343fNI?PlayTV"
