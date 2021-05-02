@@ -104,7 +104,12 @@
       {
         "name": "TVS",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TVS_%28Fernsehsender%29_Logo.svg/820px-TVS_%28Fernsehsender%29_Logo.svg.png",
-        "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8?PlayTV"
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8?freenetTV"
+      },
+      {
+        "name": "IKIM",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Radio_IKIM.png/240px-Radio_IKIM.png",
+        "uri": "https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8?PlayTV"
       },
       {
         "name": "AWESOME TV",
